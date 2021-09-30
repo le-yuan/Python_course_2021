@@ -3,7 +3,7 @@
 # Author: LE YUAN
 # Date: 2021-09-30
 
-# This python script is to compare the conservation score of essential and non-essential gene comparison across five yeast species
+# This python script is to compare the conservation score of essential and non-essential genes across five yeast species
 # Input : (i) Essential gene data (ii) Conservation score data
 # Output : (i) processed file (ii) A boxplot
 
