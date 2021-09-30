@@ -54,7 +54,7 @@ def process_data() :
         print("\n" + "-------"*5)
         print("Great! I have generated the processed data file!")
 
-# This function is to out put a boxplot to viualize the result
+# This function is to output a boxplot to viualize the result
 def main() :
     # Read the processed data using the pandas package
     alldata = pd.read_csv("./output/conservation_score.csv")
