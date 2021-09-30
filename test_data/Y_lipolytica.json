@@ -1,0 +1,3764 @@
+[
+    {
+        "YALI0C16434g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4742",
+        "index": "144_4741",
+        "ortholog": "OG1975"
+    },
+    {
+        "YALI0D24409g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1679",
+        "index": "144_1678",
+        "ortholog": "OG1322"
+    },
+    {
+        "YALI0B16104g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3599",
+        "index": "144_3598",
+        "ortholog": "OG1779"
+    },
+    {
+        "YALI0D21530g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4358",
+        "index": "144_4357",
+        "ortholog": "OG1354"
+    },
+    {
+        "YALI0B05368g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5209",
+        "index": "144_5208",
+        "ortholog": "OG1500"
+    },
+    {
+        "YALI0B08184g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4033",
+        "index": "144_4032",
+        "ortholog": "OG2365"
+    },
+    {
+        "YALI0E27203g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5436",
+        "index": "144_5435",
+        "ortholog": "OG1439"
+    },
+    {
+        "YALI0F16896g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2873",
+        "index": "144_2872",
+        "ortholog": "OG1689"
+    },
+    {
+        "YALI0F12639g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5905",
+        "index": "144_5904",
+        "ortholog": "OG1621"
+    },
+    {
+        "YALI0C00209g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4240",
+        "index": "144_4239",
+        "ortholog": "OG1081"
+    },
+    {
+        "YALI0D27126g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5404",
+        "index": "144_5403",
+        "ortholog": "OG1365"
+    },
+    {
+        "YALI0D04741g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4409",
+        "index": "144_4408",
+        "ortholog": "OG2409"
+    },
+    {
+        "YALI0E24013g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4762",
+        "index": "144_4761",
+        "ortholog": "OG1696"
+    },
+    {
+        "YALI0C10901g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2521",
+        "index": "144_2520",
+        "ortholog": "OG2129"
+    },
+    {
+        "YALI0B07447g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4811",
+        "index": "144_4810",
+        "ortholog": "OG1115"
+    },
+    {
+        "YALI0B03630g": "E",
+        "id": "Yarrowia_lipolytica@Seq_891",
+        "index": "144_890",
+        "ortholog": "OG1487"
+    },
+    {
+        "YALI0D03333g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5986",
+        "index": "144_5985",
+        "ortholog": "OG1070"
+    },
+    {
+        "YALI0F31735g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4454",
+        "index": "144_4453",
+        "ortholog": "OG1070"
+    },
+    {
+        "YALI0B17336g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4498",
+        "index": "144_4497",
+        "ortholog": "OG3413"
+    },
+    {
+        "YALI0F11759g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5982",
+        "index": "144_5981",
+        "ortholog": "OG1691"
+    },
+    {
+        "YALI0B21428g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1133",
+        "index": "144_1132",
+        "ortholog": "OG1357"
+    },
+    {
+        "YALI0F05632g": "E",
+        "id": "Yarrowia_lipolytica@Seq_6340",
+        "index": "144_6339",
+        "ortholog": "OG3774"
+    },
+    {
+        "YALI0B16038g": "E",
+        "id": "Yarrowia_lipolytica@Seq_56",
+        "index": "144_55",
+        "ortholog": "OG2678"
+    },
+    {
+        "YALI0E06193g": "E",
+        "id": "Yarrowia_lipolytica@Seq_6296",
+        "index": "144_6295",
+        "ortholog": "OG2567"
+    },
+    {
+        "YALI0D20152g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1013",
+        "index": "144_1012",
+        "ortholog": "OG2845"
+    },
+    {
+        "YALI0A13387g": "E",
+        "id": "Yarrowia_lipolytica@Seq_143",
+        "index": "144_142",
+        "ortholog": "OG1675"
+    },
+    {
+        "YALI0E03146g": "E",
+        "id": "Yarrowia_lipolytica@Seq_8",
+        "index": "144_7",
+        "ortholog": "OG2852"
+    },
+    {
+        "YALI0E29579g": "E",
+        "id": "Yarrowia_lipolytica@Seq_6321",
+        "index": "144_6320",
+        "ortholog": "OG3115"
+    },
+    {
+        "YALI0D26367g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4786",
+        "index": "144_4785",
+        "ortholog": "OG1061"
+    },
+    {
+        "YALI0B14399g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4452",
+        "index": "144_4451",
+        "ortholog": "OG2552"
+    },
+    {
+        "YALI0D14894g": "E",
+        "id": "Yarrowia_lipolytica@Seq_6036",
+        "index": "144_6035",
+        "ortholog": "OG1617"
+    },
+    {
+        "YALI0A02310g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2900",
+        "index": "144_2899",
+        "ortholog": "OG1671"
+    },
+    {
+        "YALI0E06061g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4079",
+        "index": "144_4078",
+        "ortholog": "OG3877"
+    },
+    {
+        "YALI0F20328g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3043",
+        "index": "144_3042",
+        "ortholog": "OG3196"
+    },
+    {
+        "YALI0D04378g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5280",
+        "index": "144_5279",
+        "ortholog": "OG4583"
+    },
+    {
+        "YALI0C05170g": "E",
+        "id": "Yarrowia_lipolytica@Seq_889",
+        "index": "144_888",
+        "ortholog": "OG3837"
+    },
+    {
+        "YALI0E05049g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4379",
+        "index": "144_4378",
+        "ortholog": "OG3018"
+    },
+    {
+        "YALI0E01254g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2206",
+        "index": "144_2205",
+        "ortholog": "OG2238"
+    },
+    {
+        "YALI0E33957g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4259",
+        "index": "144_4258",
+        "ortholog": "OG2655"
+    },
+    {
+        "YALI0A15950g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4007",
+        "index": "144_4006",
+        "ortholog": "OG2113"
+    },
+    {
+        "YALI0F05192g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3987",
+        "index": "144_3986",
+        "ortholog": "OG1933"
+    },
+    {
+        "YALI0C07128g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1155",
+        "index": "144_1154",
+        "ortholog": "OG2357"
+    },
+    {
+        "YALI0B15444g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1105",
+        "index": "144_1104",
+        "ortholog": "OG1451"
+    },
+    {
+        "YALI0D22891g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4036",
+        "index": "144_4035",
+        "ortholog": "OG1935"
+    },
+    {
+        "YALI0E06457g": "E",
+        "id": "Yarrowia_lipolytica@Seq_723",
+        "index": "144_722",
+        "ortholog": "OG1714"
+    },
+    {
+        "YALI0D11110g": "E",
+        "id": "Yarrowia_lipolytica@Seq_183",
+        "index": "144_182",
+        "ortholog": "OG3108"
+    },
+    {
+        "YALI0D27170g": "E",
+        "id": "Yarrowia_lipolytica@Seq_122",
+        "index": "144_121",
+        "ortholog": "OG3065"
+    },
+    {
+        "YALI0F17644g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4336",
+        "index": "144_4335",
+        "ortholog": "OG2218"
+    },
+    {
+        "YALI0F24893g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2097",
+        "index": "144_2096",
+        "ortholog": "OG1724"
+    },
+    {
+        "YALI0D11176g": "E",
+        "id": "Yarrowia_lipolytica@Seq_818",
+        "index": "144_817",
+        "ortholog": "OG1597"
+    },
+    {
+        "YALI0E16368g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3934",
+        "index": "144_3933",
+        "ortholog": "OG2147"
+    },
+    {
+        "YALI0D14476g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5142",
+        "index": "144_5141",
+        "ortholog": "OG1634"
+    },
+    {
+        "YALI0D19206g": "E",
+        "id": "Yarrowia_lipolytica@Seq_496",
+        "index": "144_495",
+        "ortholog": "OG1434"
+    },
+    {
+        "YALI0D20878g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5745",
+        "index": "144_5744",
+        "ortholog": "OG2465"
+    },
+    {
+        "YALI0A18062g": "E",
+        "id": "Yarrowia_lipolytica@Seq_602",
+        "index": "144_601",
+        "ortholog": "OG1596"
+    },
+    {
+        "YALI0F30481g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2712",
+        "index": "144_2711",
+        "ortholog": "OG1904"
+    },
+    {
+        "YALI0D01265g": "E",
+        "id": "Yarrowia_lipolytica@Seq_6320",
+        "index": "144_6319",
+        "ortholog": "OG1210"
+    },
+    {
+        "YALI0B01364g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3488",
+        "index": "144_3487",
+        "ortholog": "OG1422"
+    },
+    {
+        "YALI0D14300g": "E",
+        "id": "Yarrowia_lipolytica@Seq_261",
+        "index": "144_260",
+        "ortholog": "OG10643"
+    },
+    {
+        "YALI0E12441g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5329",
+        "index": "144_5328",
+        "ortholog": "OG2645"
+    },
+    {
+        "YALI0D06281g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2510",
+        "index": "144_2509",
+        "ortholog": "OG3902"
+    },
+    {
+        "YALI0B05500g": "E",
+        "id": "Yarrowia_lipolytica@Seq_812",
+        "index": "144_811",
+        "ortholog": "OG4693"
+    },
+    {
+        "YALI0A18656g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5804",
+        "index": "144_5803",
+        "ortholog": "OG5498"
+    },
+    {
+        "YALI0F23023g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1876",
+        "index": "144_1875",
+        "ortholog": "OG1557"
+    },
+    {
+        "YALI0B17930g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5303",
+        "index": "144_5302",
+        "ortholog": "OG1341"
+    },
+    {
+        "YALI0F08701g": "E",
+        "id": "Yarrowia_lipolytica@Seq_6112",
+        "index": "144_6111",
+        "ortholog": "OG1730"
+    },
+    {
+        "YALI0E14443g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5330",
+        "index": "144_5329",
+        "ortholog": "OG1695"
+    },
+    {
+        "YALI0B04312g": "E",
+        "id": "Yarrowia_lipolytica@Seq_6269",
+        "index": "144_6268",
+        "ortholog": "OG3214"
+    },
+    {
+        "YALI0D13112g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4819",
+        "index": "144_4818",
+        "ortholog": "OG2347"
+    },
+    {
+        "YALI0B18348g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4904",
+        "index": "144_4903",
+        "ortholog": "OG1880"
+    },
+    {
+        "YALI0F04015g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3753",
+        "index": "144_3752",
+        "ortholog": "OG3676"
+    },
+    {
+        "YALI0B14509g": "E",
+        "id": "Yarrowia_lipolytica@Seq_4461",
+        "index": "144_4460",
+        "ortholog": "OG1516"
+    },
+    {
+        "YALI0E04807g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3179",
+        "index": "144_3178",
+        "ortholog": "OG1360"
+    },
+    {
+        "YALI0C22165g": "E",
+        "id": "Yarrowia_lipolytica@Seq_573",
+        "index": "144_572",
+        "ortholog": "OG2116"
+    },
+    {
+        "YALI0B17644g": "E",
+        "id": "Yarrowia_lipolytica@Seq_577",
+        "index": "144_576",
+        "ortholog": "OG3551"
+    },
+    {
+        "YALI0B05126g": "E",
+        "id": "Yarrowia_lipolytica@Seq_852",
+        "index": "144_851",
+        "ortholog": "OG1355"
+    },
+    {
+        "YALI0F11297g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3929",
+        "index": "144_3928",
+        "ortholog": "OG1121"
+    },
+    {
+        "YALI0B23298g": "E",
+        "id": "Yarrowia_lipolytica@Seq_208",
+        "index": "144_207",
+        "ortholog": "OG2098"
+    },
+    {
+        "YALI0D08514g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2797",
+        "index": "144_2796",
+        "ortholog": "OG2956"
+    },
+    {
+        "YALI0E13057g": "E",
+        "id": "Yarrowia_lipolytica@Seq_766",
+        "index": "144_765",
+        "ortholog": "OG2854"
+    },
+    {
+        "YALI0D22847g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3765",
+        "index": "144_3764",
+        "ortholog": "OG2200"
+    },
+    {
+        "YALI0B17666g": "E",
+        "id": "Yarrowia_lipolytica@Seq_882",
+        "index": "144_881",
+        "ortholog": "OG1525"
+    },
+    {
+        "YALI0C12771g": "E",
+        "id": "Yarrowia_lipolytica@Seq_407",
+        "index": "144_406",
+        "ortholog": "OG4379"
+    },
+    {
+        "YALI0E00418g": "E",
+        "id": "Yarrowia_lipolytica@Seq_6202",
+        "index": "144_6201",
+        "ortholog": "OG2837"
+    },
+    {
+        "YALI0E15730g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5715",
+        "index": "144_5714",
+        "ortholog": "OG4061"
+    },
+    {
+        "YALI0F04378g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5573",
+        "index": "144_5572",
+        "ortholog": "OG1565"
+    },
+    {
+        "YALI0A10076g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2616",
+        "index": "144_2615",
+        "ortholog": "OG2498"
+    },
+    {
+        "YALI0D17930g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1136",
+        "index": "144_1135",
+        "ortholog": "OG2082"
+    },
+    {
+        "YALI0F09229g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5498",
+        "index": "144_5497",
+        "ortholog": "OG3063"
+    },
+    {
+        "YALI0E06479g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3533",
+        "index": "144_3532",
+        "ortholog": "OG1112"
+    },
+    {
+        "YALI0F09339g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1646",
+        "index": "144_1645",
+        "ortholog": "OG2290"
+    },
+    {
+        "YALI0B08140g": "E",
+        "id": "Yarrowia_lipolytica@Seq_827",
+        "index": "144_826",
+        "ortholog": "OG2871"
+    },
+    {
+        "YALI0B17402g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1770",
+        "index": "144_1769",
+        "ortholog": "OG2148"
+    },
+    {
+        "YALI0C00253g": "E",
+        "id": "Yarrowia_lipolytica@Seq_5870",
+        "index": "144_5869",
+        "ortholog": "OG1388"
+    },
+    {
+        "YALI0C09636g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3030",
+        "index": "144_3029",
+        "ortholog": "OG2577"
+    },
+    {
+        "YALI0D03069g": "E",
+        "id": "Yarrowia_lipolytica@Seq_84",
+        "index": "144_83",
+        "ortholog": "OG3043"
+    },
+    {
+        "YALI0B15304g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2289",
+        "index": "144_2288",
+        "ortholog": "OG1819"
+    },
+    {
+        "YALI0F21010g": "E",
+        "id": "Yarrowia_lipolytica@Seq_2295",
+        "index": "144_2294",
+        "ortholog": "OG1825"
+    },
+    {
+        "YALI0F30019g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3804",
+        "index": "144_3803",
+        "ortholog": "OG1774"
+    },
+    {
+        "YALI0C23408g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1122",
+        "index": "144_1121",
+        "ortholog": "OG1445"
+    },
+    {
+        "YALI0D03135g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3024",
+        "index": "144_3023",
+        "ortholog": "OG1569"
+    },
+    {
+        "YALI0D18920g": "E",
+        "id": "Yarrowia_lipolytica@Seq_491",
+        "index": "144_490",
+        "ortholog": "OG3279"
+    },
+    {
+        "YALI0E09493g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1524",
+        "index": "144_1523",
+        "ortholog": "OG1032"
+    },
+    {
+        "YALI0F21527g": "E",
+        "id": "Yarrowia_lipolytica@Seq_622",
+        "index": "144_621",
+        "ortholog": "OG1674"
+    },
+    {
+        "YALI0F22781g": "E",
+        "id": "Yarrowia_lipolytica@Seq_3823",
+        "index": "144_3822",
+        "ortholog": "OG2056"
+    },
+    {
+        "YALI0B23188g": "E",
+        "id": "Yarrowia_lipolytica@Seq_743",
+        "index": "144_742",
+        "ortholog": "OG2053"
+    },
+    {
+        "YALI0E33033g": "E",
+        "id": "Yarrowia_lipolytica@Seq_1014",
+        "index": "144_1013",
+        "ortholog": "OG2453"
+    },
+    {
+        "YALI0D16357g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4510",
+        "index": "144_4509",
+        "ortholog": "OG1054"
+    },
+    {
+        "YALI0E26004g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3263",
+        "index": "144_3262",
+        "ortholog": "OG1432"
+    },
+    {
+        "YALI0F16819g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3402",
+        "index": "144_3401",
+        "ortholog": "OG1193"
+    },
+    {
+        "YALI0F09185g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6038",
+        "index": "144_6037",
+        "ortholog": "OG1299"
+    },
+    {
+        "YALI0F21406g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2243",
+        "index": "144_2242",
+        "ortholog": "OG1507"
+    },
+    {
+        "YALI0F07711g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6030",
+        "index": "144_6029",
+        "ortholog": "OG2038"
+    },
+    {
+        "YALI0B20438g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1452",
+        "index": "144_1451",
+        "ortholog": "OG3443"
+    },
+    {
+        "YALI0F09966g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3289",
+        "index": "144_3288",
+        "ortholog": "OG1433"
+    },
+    {
+        "YALI0F06468g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1814",
+        "index": "144_1813",
+        "ortholog": "OG4581"
+    },
+    {
+        "YALI0E18238g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5260",
+        "index": "144_5259",
+        "ortholog": "OG1157"
+    },
+    {
+        "YALI0F08415g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5880",
+        "index": "144_5879",
+        "ortholog": "OG3506"
+    },
+    {
+        "YALI0C01859g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1120",
+        "index": "144_1119",
+        "ortholog": "OG4536"
+    },
+    {
+        "YALI0F02849g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_283",
+        "index": "144_282",
+        "ortholog": "OG4171"
+    },
+    {
+        "YALI0A04983g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2785",
+        "index": "144_2784",
+        "ortholog": "OG2562"
+    },
+    {
+        "YALI0F11935g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4892",
+        "index": "144_4891",
+        "ortholog": "OG3624"
+    },
+    {
+        "YALI0A06787g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_355",
+        "index": "144_354",
+        "ortholog": "OG4959"
+    },
+    {
+        "YALI0E31064g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2409",
+        "index": "144_2408",
+        "ortholog": "OG1069"
+    },
+    {
+        "YALI0A15125g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5294",
+        "index": "144_5293",
+        "ortholog": "OG1304"
+    },
+    {
+        "YALI0E23859g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4784",
+        "index": "144_4783",
+        "ortholog": "OG4292"
+    },
+    {
+        "YALI0D27016g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4375",
+        "index": "144_4374",
+        "ortholog": "OG1687"
+    },
+    {
+        "YALI0B00704g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5543",
+        "index": "144_5542",
+        "ortholog": "OG2740"
+    },
+    {
+        "YALI0F23463g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4915",
+        "index": "144_4914",
+        "ortholog": "OG2384"
+    },
+    {
+        "YALI0F27665g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6248",
+        "index": "144_6247",
+        "ortholog": "OG4266"
+    },
+    {
+        "YALI0D10593g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2738",
+        "index": "144_2737",
+        "ortholog": "OG2746"
+    },
+    {
+        "YALI0E02728g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1075",
+        "index": "144_1074",
+        "ortholog": "OG1111"
+    },
+    {
+        "YALI0F31075g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2878",
+        "index": "144_2877",
+        "ortholog": "OG1096"
+    },
+    {
+        "YALI0D10131g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4193",
+        "index": "144_4192",
+        "ortholog": "OG1060"
+    },
+    {
+        "YALI0A21417g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5708",
+        "index": "144_5707",
+        "ortholog": "OG1129"
+    },
+    {
+        "YALI0A14784g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4501",
+        "index": "144_4500",
+        "ortholog": "OG1287"
+    },
+    {
+        "YALI0D23397g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1090",
+        "index": "144_1089",
+        "ortholog": "OG2704"
+    },
+    {
+        "YALI0E29667g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5451",
+        "index": "144_5450",
+        "ortholog": "OG2112"
+    },
+    {
+        "YALI0D11374g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5443",
+        "index": "144_5442",
+        "ortholog": "OG1275"
+    },
+    {
+        "YALI0B03344g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5052",
+        "index": "144_5051",
+        "ortholog": "OG4201"
+    },
+    {
+        "YALI0C06776g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5929",
+        "index": "144_5928",
+        "ortholog": "OG1218"
+    },
+    {
+        "YALI0C11880g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_730",
+        "index": "144_729",
+        "ortholog": "OG2161"
+    },
+    {
+        "YALI0D02497g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2246",
+        "index": "144_2245",
+        "ortholog": "OG1788"
+    },
+    {
+        "YALI0F15587g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4101",
+        "index": "144_4100",
+        "ortholog": "OG1667"
+    },
+    {
+        "YALI0C13354g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2463",
+        "index": "144_2462",
+        "ortholog": "OG2654"
+    },
+    {
+        "YALI0C23210g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_265",
+        "index": "144_264",
+        "ortholog": "OG1905"
+    },
+    {
+        "YALI0E04224g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1678",
+        "index": "144_1677",
+        "ortholog": "OG3811"
+    },
+    {
+        "YALI0F05874g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4275",
+        "index": "144_4274",
+        "ortholog": "OG3978"
+    },
+    {
+        "YALI0A19558g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_684",
+        "index": "144_683",
+        "ortholog": "OG1048"
+    },
+    {
+        "YALI0F05962g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4910",
+        "index": "144_4909",
+        "ortholog": "OG1055"
+    },
+    {
+        "YALI0F08217g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_342",
+        "index": "144_341",
+        "ortholog": "OG3617"
+    },
+    {
+        "YALI0C00451g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6157",
+        "index": "144_6156",
+        "ortholog": "OG1162"
+    },
+    {
+        "YALI0F00484g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5158",
+        "index": "144_5157",
+        "ortholog": "OG2455"
+    },
+    {
+        "YALI0F09251g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1388",
+        "index": "144_1387",
+        "ortholog": "OG3961"
+    },
+    {
+        "YALI0F22605g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5871",
+        "index": "144_5870",
+        "ortholog": "OG4003"
+    },
+    {
+        "YALI0F23243g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_734",
+        "index": "144_733",
+        "ortholog": "OG3304"
+    },
+    {
+        "YALI0F06710g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5563",
+        "index": "144_5562",
+        "ortholog": "OG3683"
+    },
+    {
+        "YALI0D18337g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2787",
+        "index": "144_2786",
+        "ortholog": "OG3221"
+    },
+    {
+        "YALI0B09515g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3614",
+        "index": "144_3613",
+        "ortholog": "OG4756"
+    },
+    {
+        "YALI0C06303g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4890",
+        "index": "144_4889",
+        "ortholog": "OG2048"
+    },
+    {
+        "YALI0E07535g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1235",
+        "index": "144_1234",
+        "ortholog": "OG2936"
+    },
+    {
+        "YALI0B10406g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4451",
+        "index": "144_4450",
+        "ortholog": "OG5668"
+    },
+    {
+        "YALI0F23551g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_87",
+        "index": "144_86",
+        "ortholog": "OG3596"
+    },
+    {
+        "YALI0E03212g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4272",
+        "index": "144_4271",
+        "ortholog": "OG1019"
+    },
+    {
+        "YALI0F30349g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_173",
+        "index": "144_172",
+        "ortholog": "OG1601"
+    },
+    {
+        "YALI0D05621g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4004",
+        "index": "144_4003",
+        "ortholog": "OG1119"
+    },
+    {
+        "YALI0E09603g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_871",
+        "index": "144_870",
+        "ortholog": "OG1551"
+    },
+    {
+        "YALI0D13024g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2779",
+        "index": "144_2778",
+        "ortholog": "OG7554"
+    },
+    {
+        "YALI0F00506g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2729",
+        "index": "144_2728",
+        "ortholog": "OG1537"
+    },
+    {
+        "YALI0B02178g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2111",
+        "index": "144_2110",
+        "ortholog": "OG3525"
+    },
+    {
+        "YALI0F29337g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2744",
+        "index": "144_2743",
+        "ortholog": "OG1650"
+    },
+    {
+        "YALI0B16324g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_99",
+        "index": "144_98",
+        "ortholog": "OG1012"
+    },
+    {
+        "YALI0C24354g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1003",
+        "index": "144_1002",
+        "ortholog": "OG1230"
+    },
+    {
+        "YALI0D03179g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6365",
+        "index": "144_6364",
+        "ortholog": "OG1012"
+    },
+    {
+        "YALI0D25938g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5706",
+        "index": "144_5705",
+        "ortholog": "OG1012"
+    },
+    {
+        "YALI0E22198g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3018",
+        "index": "144_3017",
+        "ortholog": "OG5420"
+    },
+    {
+        "YALI0B22308g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_746",
+        "index": "144_745",
+        "ortholog": "OG1208"
+    },
+    {
+        "YALI0E15488g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5667",
+        "index": "144_5666",
+        "ortholog": "OG1329"
+    },
+    {
+        "YALI0E20207g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4778",
+        "index": "144_4777",
+        "ortholog": "OG3645"
+    },
+    {
+        "YALI0A01870g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5198",
+        "index": "144_5197",
+        "ortholog": "OG12153"
+    },
+    {
+        "YALI0F04532g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4342",
+        "index": "144_4341",
+        "ortholog": "OG1455"
+    },
+    {
+        "YALI0B16390g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4258",
+        "index": "144_4257",
+        "ortholog": "OG2173"
+    },
+    {
+        "YALI0E04202g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3590",
+        "index": "144_3589",
+        "ortholog": "OG3405"
+    },
+    {
+        "YALI0B01298g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_589",
+        "index": "144_588",
+        "ortholog": "OG1411"
+    },
+    {
+        "YALI0C03025g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_326",
+        "index": "144_325",
+        "ortholog": "OG1021"
+    },
+    {
+        "YALI0E00264g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_556",
+        "index": "144_555",
+        "ortholog": "OG1021"
+    },
+    {
+        "YALI0F23793g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5213",
+        "index": "144_5212",
+        "ortholog": "OG1411"
+    },
+    {
+        "YALI0D07942g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1480",
+        "index": "144_1479",
+        "ortholog": "OG1103"
+    },
+    {
+        "YALI0F04444g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4067",
+        "index": "144_4066",
+        "ortholog": "OG1103"
+    },
+    {
+        "YALI0C18315g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5640",
+        "index": "144_5639",
+        "ortholog": "OG1915"
+    },
+    {
+        "YALI0C22792g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1573",
+        "index": "144_1572",
+        "ortholog": "OG4372"
+    },
+    {
+        "YALI0E08536g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2869",
+        "index": "144_2868",
+        "ortholog": "OG2651"
+    },
+    {
+        "YALI0F14047g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2684",
+        "index": "144_2683",
+        "ortholog": "OG3840"
+    },
+    {
+        "YALI0C22088g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3665",
+        "index": "144_3664",
+        "ortholog": "OG1515"
+    },
+    {
+        "YALI0D17402g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4209",
+        "index": "144_4208",
+        "ortholog": "OG1390"
+    },
+    {
+        "YALI0C24233g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_362",
+        "index": "144_361",
+        "ortholog": "OG3829"
+    },
+    {
+        "YALI0E00836g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5417",
+        "index": "144_5416",
+        "ortholog": "OG3006"
+    },
+    {
+        "YALI0E12683g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_843",
+        "index": "144_842",
+        "ortholog": "OG1813"
+    },
+    {
+        "YALI0F25201g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_735",
+        "index": "144_734",
+        "ortholog": "OG3663"
+    },
+    {
+        "YALI0E26829g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6355",
+        "index": "144_6354",
+        "ortholog": "OG3994"
+    },
+    {
+        "YALI0F23947g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4704",
+        "index": "144_4703",
+        "ortholog": "OG4707"
+    },
+    {
+        "YALI0C13090g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_597",
+        "index": "144_596",
+        "ortholog": "OG4231"
+    },
+    {
+        "YALI0C23859g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3369",
+        "index": "144_3368",
+        "ortholog": "OG1122"
+    },
+    {
+        "YALI0D24750g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2963",
+        "index": "144_2962",
+        "ortholog": "OG1122"
+    },
+    {
+        "YALI0F10857g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2895",
+        "index": "144_2894",
+        "ortholog": "OG1122"
+    },
+    {
+        "YALI0B10340g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5673",
+        "index": "144_5672",
+        "ortholog": "OG2397"
+    },
+    {
+        "YALI0F21197g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5305",
+        "index": "144_5304",
+        "ortholog": "OG2637"
+    },
+    {
+        "YALI0A02541g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4359",
+        "index": "144_4358",
+        "ortholog": "OG2380"
+    },
+    {
+        "YALI0F16709g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4946",
+        "index": "144_4945",
+        "ortholog": "OG2979"
+    },
+    {
+        "YALI0A10032g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1556",
+        "index": "144_1555",
+        "ortholog": "OG4008"
+    },
+    {
+        "YALI0E24497g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2049",
+        "index": "144_2048",
+        "ortholog": "OG2126"
+    },
+    {
+        "YALI0C06490g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_433",
+        "index": "144_432",
+        "ortholog": "OG1446"
+    },
+    {
+        "YALI0E15125g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5267",
+        "index": "144_5266",
+        "ortholog": "OG5296"
+    },
+    {
+        "YALI0D21010g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2643",
+        "index": "144_2642",
+        "ortholog": "OG1581"
+    },
+    {
+        "YALI0E17633g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5527",
+        "index": "144_5526",
+        "ortholog": "OG1563"
+    },
+    {
+        "YALI0F27885g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4063",
+        "index": "144_4062",
+        "ortholog": "OG1204"
+    },
+    {
+        "YALI0D22484g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_220",
+        "index": "144_219",
+        "ortholog": "OG1030"
+    },
+    {
+        "YALI0E16346g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2922",
+        "index": "144_2921",
+        "ortholog": "OG1030"
+    },
+    {
+        "YALI0E02398g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1745",
+        "index": "144_1744",
+        "ortholog": "OG1076"
+    },
+    {
+        "YALI0C11363g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4924",
+        "index": "144_4923",
+        "ortholog": "OG4043"
+    },
+    {
+        "YALI0C20669g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4735",
+        "index": "144_4734",
+        "ortholog": "OG4533"
+    },
+    {
+        "YALI0F01606g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2004",
+        "index": "144_2003",
+        "ortholog": "OG5612"
+    },
+    {
+        "YALI0F09273g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5058",
+        "index": "144_5057",
+        "ortholog": "OG1406"
+    },
+    {
+        "YALI0E18964g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4646",
+        "index": "144_4645",
+        "ortholog": "OG1471"
+    },
+    {
+        "YALI0D17534g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3676",
+        "index": "144_3675",
+        "ortholog": "OG2719"
+    },
+    {
+        "YALI0D19184g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2910",
+        "index": "144_2909",
+        "ortholog": "OG2727"
+    },
+    {
+        "YALI0E31515g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1904",
+        "index": "144_1903",
+        "ortholog": "OG4418"
+    },
+    {
+        "YALI0B02948g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1509",
+        "index": "144_1508",
+        "ortholog": "OG1137"
+    },
+    {
+        "YALI0D03480g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_884",
+        "index": "144_883",
+        "ortholog": "OG2228"
+    },
+    {
+        "YALI0D21604g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4522",
+        "index": "144_4521",
+        "ortholog": "OG2394"
+    },
+    {
+        "YALI0E14102g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5891",
+        "index": "144_5890",
+        "ortholog": "OG1785"
+    },
+    {
+        "YALI0F23837g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_992",
+        "index": "144_991",
+        "ortholog": "OG3681"
+    },
+    {
+        "YALI0B02376g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5620",
+        "index": "144_5619",
+        "ortholog": "OG2412"
+    },
+    {
+        "YALI0E28153g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_490",
+        "index": "144_489",
+        "ortholog": "OG1679"
+    },
+    {
+        "YALI0F09559g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4327",
+        "index": "144_4326",
+        "ortholog": "OG3258"
+    },
+    {
+        "YALI0C04180g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3604",
+        "index": "144_3603",
+        "ortholog": "OG3760"
+    },
+    {
+        "YALI0F23573g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_294",
+        "index": "144_293",
+        "ortholog": "OG1611"
+    },
+    {
+        "YALI0E29161g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3291",
+        "index": "144_3290",
+        "ortholog": "OG1495"
+    },
+    {
+        "YALI0A15147g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_133",
+        "index": "144_132",
+        "ortholog": "OG1016"
+    },
+    {
+        "YALI0A16379g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_533",
+        "index": "144_532",
+        "ortholog": "OG1016"
+    },
+    {
+        "YALI0D25630g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2933",
+        "index": "144_2932",
+        "ortholog": "OG1016"
+    },
+    {
+        "YALI0E17787g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_477",
+        "index": "144_476",
+        "ortholog": "OG1016"
+    },
+    {
+        "YALI0E02090g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1601",
+        "index": "144_1600",
+        "ortholog": "OG1302"
+    },
+    {
+        "YALI0E02244g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5526",
+        "index": "144_5525",
+        "ortholog": "OG2571"
+    },
+    {
+        "YALI0F01584g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4941",
+        "index": "144_4940",
+        "ortholog": "OG9143"
+    },
+    {
+        "YALI0F05214g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3048",
+        "index": "144_3047",
+        "ortholog": "OG2197"
+    },
+    {
+        "YALI0D09229g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3428",
+        "index": "144_3427",
+        "ortholog": "OG2605"
+    },
+    {
+        "YALI0D16445g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2850",
+        "index": "144_2849",
+        "ortholog": "OG3449"
+    },
+    {
+        "YALI0A15972g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6367",
+        "index": "144_6366",
+        "ortholog": "OG1815"
+    },
+    {
+        "YALI0E00638g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1268",
+        "index": "144_1267",
+        "ortholog": "OG5327"
+    },
+    {
+        "YALI0E02684g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6083",
+        "index": "144_6082",
+        "ortholog": "OG1416"
+    },
+    {
+        "YALI0D19140g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4291",
+        "index": "144_4290",
+        "ortholog": "OG1170"
+    },
+    {
+        "YALI0E15708g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_258",
+        "index": "144_257",
+        "ortholog": "OG1170"
+    },
+    {
+        "YALI0D12661g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3780",
+        "index": "144_3779",
+        "ortholog": "OG6142"
+    },
+    {
+        "YALI0C16885g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2214",
+        "index": "144_2213",
+        "ortholog": "OG2099"
+    },
+    {
+        "YALI0F31999g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5815",
+        "index": "144_5814",
+        "ortholog": "OG5170"
+    },
+    {
+        "YALI0A12353g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1347",
+        "index": "144_1346",
+        "ortholog": "OG1458"
+    },
+    {
+        "YALI0B22506g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1526",
+        "index": "144_1525",
+        "ortholog": "OG1458"
+    },
+    {
+        "YALI0C08074g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1825",
+        "index": "144_1824",
+        "ortholog": "OG1458"
+    },
+    {
+        "YALI0C14344g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4897",
+        "index": "144_4896",
+        "ortholog": "OG1458"
+    },
+    {
+        "YALI0F13937g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3872",
+        "index": "144_3871",
+        "ortholog": "OG1458"
+    },
+    {
+        "YALI0F15983g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5948",
+        "index": "144_5947",
+        "ortholog": "OG1458"
+    },
+    {
+        "YALI0F28765g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1027",
+        "index": "144_1026",
+        "ortholog": "OG1458"
+    },
+    {
+        "YALI0E34265g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3084",
+        "index": "144_3083",
+        "ortholog": "OG5404"
+    },
+    {
+        "YALI0E34749g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_943",
+        "index": "144_942",
+        "ortholog": "OG5404"
+    },
+    {
+        "YALI0F30987g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_855",
+        "index": "144_854",
+        "ortholog": "OG1310"
+    },
+    {
+        "YALI0C11803g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3833",
+        "index": "144_3832",
+        "ortholog": "OG23319"
+    },
+    {
+        "YALI0F13541g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1956",
+        "index": "144_1955",
+        "ortholog": "OG2522"
+    },
+    {
+        "YALI0A08217g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1145",
+        "index": "144_1144",
+        "ortholog": "OG4644"
+    },
+    {
+        "YALI0C19866g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1339",
+        "index": "144_1338",
+        "ortholog": "OG4644"
+    },
+    {
+        "YALI0E01056g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1094",
+        "index": "144_1093",
+        "ortholog": "OG1052"
+    },
+    {
+        "YALI0F30745g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4013",
+        "index": "144_4012",
+        "ortholog": "OG1052"
+    },
+    {
+        "YALI0F06820g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_617",
+        "index": "144_616",
+        "ortholog": "OG3093"
+    },
+    {
+        "YALI0B00572g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4530",
+        "index": "144_4529",
+        "ortholog": "OG2495"
+    },
+    {
+        "YALI0B14465g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_941",
+        "index": "144_940",
+        "ortholog": "OG2246"
+    },
+    {
+        "YALI0E34771g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5431",
+        "index": "144_5430",
+        "ortholog": "OG1079"
+    },
+    {
+        "YALI0F16401g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3309",
+        "index": "144_3308",
+        "ortholog": "OG6412"
+    },
+    {
+        "YALI0F03663g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2055",
+        "index": "144_2054",
+        "ortholog": "OG3843"
+    },
+    {
+        "YALI0B18898g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4748",
+        "index": "144_4747",
+        "ortholog": "OG2882"
+    },
+    {
+        "YALI0D02321g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4226",
+        "index": "144_4225",
+        "ortholog": "OG8346"
+    },
+    {
+        "YALI0F10923g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2700",
+        "index": "144_2699",
+        "ortholog": "OG3151"
+    },
+    {
+        "YALI0B06941g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5530",
+        "index": "144_5529",
+        "ortholog": "OG1764"
+    },
+    {
+        "YALI0F01628g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2443",
+        "index": "144_2442",
+        "ortholog": "OG5881"
+    },
+    {
+        "YALI0F07821g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4401",
+        "index": "144_4400",
+        "ortholog": "OG4079"
+    },
+    {
+        "YALI0C19085g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3607",
+        "index": "144_3606",
+        "ortholog": "OG2411"
+    },
+    {
+        "YALI0E11671g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4617",
+        "index": "144_4616",
+        "ortholog": "OG3991"
+    },
+    {
+        "YALI0F26521g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2928",
+        "index": "144_2927",
+        "ortholog": "OG5118"
+    },
+    {
+        "YALI0B00836g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_251",
+        "index": "144_250",
+        "ortholog": "OG2007"
+    },
+    {
+        "YALI0E32351g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1903",
+        "index": "144_1902",
+        "ortholog": "OG2588"
+    },
+    {
+        "YALI0F25047g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_194",
+        "index": "144_193",
+        "ortholog": "OG2968"
+    },
+    {
+        "YALI0A08041g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4642",
+        "index": "144_4641",
+        "ortholog": "OG1708"
+    },
+    {
+        "YALI0E32527g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3525",
+        "index": "144_3524",
+        "ortholog": "OG3253"
+    },
+    {
+        "YALI0E14751g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4751",
+        "index": "144_4750",
+        "ortholog": "OG2028"
+    },
+    {
+        "YALI0E17479g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5018",
+        "index": "144_5017",
+        "ortholog": "OG2906"
+    },
+    {
+        "YALI0B20020g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1158",
+        "index": "144_1157",
+        "ortholog": "OG2032"
+    },
+    {
+        "YALI0B22440g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4113",
+        "index": "144_4112",
+        "ortholog": "OG6784"
+    },
+    {
+        "YALI0C06952g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_698",
+        "index": "144_697",
+        "ortholog": "OG4665"
+    },
+    {
+        "YALI0F20790g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4131",
+        "index": "144_4130",
+        "ortholog": "OG1767"
+    },
+    {
+        "YALI0F26609g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2392",
+        "index": "144_2391",
+        "ortholog": "OG2057"
+    },
+    {
+        "YALI0F19470g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3261",
+        "index": "144_3260",
+        "ortholog": "OG2960"
+    },
+    {
+        "YALI0E11385g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1336",
+        "index": "144_1335",
+        "ortholog": "OG3001"
+    },
+    {
+        "YALI0F09449g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2221",
+        "index": "144_2220",
+        "ortholog": "OG3856"
+    },
+    {
+        "YALI0A01133g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_542",
+        "index": "144_541",
+        "ortholog": "OG1966"
+    },
+    {
+        "YALI0C01716g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6328",
+        "index": "144_6327",
+        "ortholog": "OG2062"
+    },
+    {
+        "YALI0E29975g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_545",
+        "index": "144_544",
+        "ortholog": "OG2537"
+    },
+    {
+        "YALI0D23331g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4674",
+        "index": "144_4673",
+        "ortholog": "OG1273"
+    },
+    {
+        "YALI0E20625g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5266",
+        "index": "144_5265",
+        "ortholog": "OG7730"
+    },
+    {
+        "YALI0F31273g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4707",
+        "index": "144_4706",
+        "ortholog": "OG3612"
+    },
+    {
+        "YALI0C23969g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3446",
+        "index": "144_3445",
+        "ortholog": "OG1032"
+    },
+    {
+        "YALI0D07370g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1754",
+        "index": "144_1753",
+        "ortholog": "OG2721"
+    },
+    {
+        "YALI0E18634g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2103",
+        "index": "144_2102",
+        "ortholog": "OG1276"
+    },
+    {
+        "YALI0D16753g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2856",
+        "index": "144_2855",
+        "ortholog": "OG1835"
+    },
+    {
+        "YALI0E14190g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2058",
+        "index": "144_2057",
+        "ortholog": "OG4173"
+    },
+    {
+        "YALI0D06974g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4542",
+        "index": "144_4541",
+        "ortholog": "OG2741"
+    },
+    {
+        "YALI0E24057g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1948",
+        "index": "144_1947",
+        "ortholog": "OG2868"
+    },
+    {
+        "YALI0B08536g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1642",
+        "index": "144_1641",
+        "ortholog": "OG1897"
+    },
+    {
+        "YALI0E11099g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4817",
+        "index": "144_4816",
+        "ortholog": "OG6742"
+    },
+    {
+        "YALI0D25564g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1119",
+        "index": "144_1118",
+        "ortholog": "OG3074"
+    },
+    {
+        "YALI0A12573g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5053",
+        "index": "144_5052",
+        "ortholog": "OG5149"
+    },
+    {
+        "YALI0E32681g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3314",
+        "index": "144_3313",
+        "ortholog": "OG3643"
+    },
+    {
+        "YALI0E35222g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3573",
+        "index": "144_3572",
+        "ortholog": "OG5149"
+    },
+    {
+        "YALI0F23067g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4059",
+        "index": "144_4058",
+        "ortholog": "OG5149"
+    },
+    {
+        "YALI0F25773g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2158",
+        "index": "144_2157",
+        "ortholog": "OG5149"
+    },
+    {
+        "YALI0C03179g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5904",
+        "index": "144_5903",
+        "ortholog": "OG2382"
+    },
+    {
+        "YALI0F15345g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5364",
+        "index": "144_5363",
+        "ortholog": "OG1683"
+    },
+    {
+        "YALI0F06424g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4849",
+        "index": "144_4848",
+        "ortholog": "OG1303"
+    },
+    {
+        "YALI0D04026g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1194",
+        "index": "144_1193",
+        "ortholog": "OG4086"
+    },
+    {
+        "YALI0D06237g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3461",
+        "index": "144_3460",
+        "ortholog": "OG4020"
+    },
+    {
+        "YALI0E16434g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1135",
+        "index": "144_1134",
+        "ortholog": "OG1242"
+    },
+    {
+        "YALI0F01672g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6161",
+        "index": "144_6160",
+        "ortholog": "OG1105"
+    },
+    {
+        "YALI0E14685g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3477",
+        "index": "144_3476",
+        "ortholog": "OG1753"
+    },
+    {
+        "YALI0E31086g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5738",
+        "index": "144_5737",
+        "ortholog": "OG1314"
+    },
+    {
+        "YALI0B03564g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6275",
+        "index": "144_6274",
+        "ortholog": "OG2859"
+    },
+    {
+        "YALI0F05390g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2489",
+        "index": "144_2488",
+        "ortholog": "OG1298"
+    },
+    {
+        "YALI0C01411g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2511",
+        "index": "144_2510",
+        "ortholog": "OG1014"
+    },
+    {
+        "YALI0E21021g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_426",
+        "index": "144_425",
+        "ortholog": "OG1014"
+    },
+    {
+        "YALI0E26719g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5943",
+        "index": "144_5942",
+        "ortholog": "OG5441"
+    },
+    {
+        "YALI0B17204g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_646",
+        "index": "144_645",
+        "ortholog": "OG2353"
+    },
+    {
+        "YALI0E32065g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5043",
+        "index": "144_5042",
+        "ortholog": "OG2353"
+    },
+    {
+        "YALI0D17050g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3365",
+        "index": "144_3364",
+        "ortholog": "OG3679"
+    },
+    {
+        "YALI0E05753g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2925",
+        "index": "144_2924",
+        "ortholog": "OG2156"
+    },
+    {
+        "YALI0C18799g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2757",
+        "index": "144_2756",
+        "ortholog": "OG2869"
+    },
+    {
+        "YALI0D17556g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4774",
+        "index": "144_4773",
+        "ortholog": "OG3858"
+    },
+    {
+        "YALI0D06303g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2981",
+        "index": "144_2980",
+        "ortholog": "OG1786"
+    },
+    {
+        "YALI0E05137g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_297",
+        "index": "144_296",
+        "ortholog": "OG2677"
+    },
+    {
+        "YALI0D09361g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1977",
+        "index": "144_1976",
+        "ortholog": "OG1039"
+    },
+    {
+        "YALI0E14949g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5655",
+        "index": "144_5654",
+        "ortholog": "OG1039"
+    },
+    {
+        "YALI0A08668g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_66",
+        "index": "144_65",
+        "ortholog": "OG4110"
+    },
+    {
+        "YALI0E20603g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5150",
+        "index": "144_5149",
+        "ortholog": "OG4664"
+    },
+    {
+        "YALI0C24255g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3033",
+        "index": "144_3032",
+        "ortholog": "OG4112"
+    },
+    {
+        "YALI0E21351g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3288",
+        "index": "144_3287",
+        "ortholog": "OG3114"
+    },
+    {
+        "YALI0F26455g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1589",
+        "index": "144_1588",
+        "ortholog": "OG3677"
+    },
+    {
+        "YALI0B08943g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3450",
+        "index": "144_3449",
+        "ortholog": "OG1988"
+    },
+    {
+        "YALI0C18425g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2718",
+        "index": "144_2717",
+        "ortholog": "OG2466"
+    },
+    {
+        "YALI0A00264g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1330",
+        "index": "144_1329",
+        "ortholog": "OG1811"
+    },
+    {
+        "YALI0C10780g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2567",
+        "index": "144_2566",
+        "ortholog": "OG2711"
+    },
+    {
+        "YALI0E24607g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4645",
+        "index": "144_4644",
+        "ortholog": "OG1501"
+    },
+    {
+        "YALI0F02299g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4031",
+        "index": "144_4030",
+        "ortholog": "OG1748"
+    },
+    {
+        "YALI0F20218g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1584",
+        "index": "144_1583",
+        "ortholog": "OG1332"
+    },
+    {
+        "YALI0A10310g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2402",
+        "index": "144_2401",
+        "ortholog": "OG2774"
+    },
+    {
+        "YALI0B11044g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1280",
+        "index": "144_1279",
+        "ortholog": "OG1152"
+    },
+    {
+        "YALI0E16060g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1378",
+        "index": "144_1377",
+        "ortholog": "OG1044"
+    },
+    {
+        "YALI0E18942g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2853",
+        "index": "144_2852",
+        "ortholog": "OG3476"
+    },
+    {
+        "YALI0C23364g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2806",
+        "index": "144_2805",
+        "ortholog": "OG1053"
+    },
+    {
+        "YALI0E05929g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1005",
+        "index": "144_1004",
+        "ortholog": "OG1479"
+    },
+    {
+        "YALI0E15081g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5712",
+        "index": "144_5711",
+        "ortholog": "OG1166"
+    },
+    {
+        "YALI0F05126g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2989",
+        "index": "144_2988",
+        "ortholog": "OG6884"
+    },
+    {
+        "YALI0C07678g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5716",
+        "index": "144_5715",
+        "ortholog": "OG1062"
+    },
+    {
+        "YALI0F05500g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_671",
+        "index": "144_670",
+        "ortholog": "OG3179"
+    },
+    {
+        "YALI0C22616g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_327",
+        "index": "144_326",
+        "ortholog": "OG1503"
+    },
+    {
+        "YALI0B21142g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_653",
+        "index": "144_652",
+        "ortholog": "OG2742"
+    },
+    {
+        "YALI0E17545g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5951",
+        "index": "144_5950",
+        "ortholog": "OG8436"
+    },
+    {
+        "YALI0E21549g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3948",
+        "index": "144_3947",
+        "ortholog": "OG8405"
+    },
+    {
+        "YALI0E30591g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2119",
+        "index": "144_2118",
+        "ortholog": "OG1518"
+    },
+    {
+        "YALI0F06358g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2698",
+        "index": "144_2697",
+        "ortholog": "OG1814"
+    },
+    {
+        "YALI0B14531g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_114",
+        "index": "144_113",
+        "ortholog": "OG3112"
+    },
+    {
+        "YALI0E32791g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4287",
+        "index": "144_4286",
+        "ortholog": "OG1071"
+    },
+    {
+        "YALI0A14157g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2584",
+        "index": "144_2583",
+        "ortholog": "OG2438"
+    },
+    {
+        "YALI0C07414g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2723",
+        "index": "144_2722",
+        "ortholog": "OG1227"
+    },
+    {
+        "YALI0D06017g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6384",
+        "index": "144_6383",
+        "ortholog": "OG3000"
+    },
+    {
+        "YALI0B16588g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2580",
+        "index": "144_2579",
+        "ortholog": "OG2265"
+    },
+    {
+        "YALI0B11440g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5349",
+        "index": "144_5348",
+        "ortholog": "OG4021"
+    },
+    {
+        "YALI0D07634g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5244",
+        "index": "144_5243",
+        "ortholog": "OG1022"
+    },
+    {
+        "YALI0F02211g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_920",
+        "index": "144_919",
+        "ortholog": "OG4125"
+    },
+    {
+        "YALI0D06215g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5314",
+        "index": "144_5313",
+        "ortholog": "OG3047"
+    },
+    {
+        "YALI0E28237g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4912",
+        "index": "144_4911",
+        "ortholog": "OG2557"
+    },
+    {
+        "YALI0D05335g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3326",
+        "index": "144_3325",
+        "ortholog": "OG9128"
+    },
+    {
+        "YALI0A19074g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1204",
+        "index": "144_1203",
+        "ortholog": "OG2348"
+    },
+    {
+        "YALI0E28787g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3809",
+        "index": "144_3808",
+        "ortholog": "OG1759"
+    },
+    {
+        "YALI0A19206g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1078",
+        "index": "144_1077",
+        "ortholog": "OG1744"
+    },
+    {
+        "YALI0E30481g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5489",
+        "index": "144_5488",
+        "ortholog": "OG2752"
+    },
+    {
+        "YALI0D11704g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2838",
+        "index": "144_2837",
+        "ortholog": "OG1665"
+    },
+    {
+        "YALI0D13596g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1426",
+        "index": "144_1425",
+        "ortholog": "OG1883"
+    },
+    {
+        "YALI0F22517g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2940",
+        "index": "144_2939",
+        "ortholog": "OG4004"
+    },
+    {
+        "YALI0D08382g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2719",
+        "index": "144_2718",
+        "ortholog": "OG4122"
+    },
+    {
+        "YALI0B21846g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6169",
+        "index": "144_6168",
+        "ortholog": "OG4298"
+    },
+    {
+        "YALI0B01826g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_728",
+        "index": "144_727",
+        "ortholog": "OG4645"
+    },
+    {
+        "YALI0F26125g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3192",
+        "index": "144_3191",
+        "ortholog": "OG3298"
+    },
+    {
+        "YALI0F19866g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4571",
+        "index": "144_4570",
+        "ortholog": "OG1001"
+    },
+    {
+        "YALI0E33143g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3873",
+        "index": "144_3872",
+        "ortholog": "OG2508"
+    },
+    {
+        "YALI0E20361g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4488",
+        "index": "144_4487",
+        "ortholog": "OG2912"
+    },
+    {
+        "YALI0B13420g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1555",
+        "index": "144_1554",
+        "ortholog": "OG2308"
+    },
+    {
+        "YALI0A16698g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5409",
+        "index": "144_5408",
+        "ortholog": "OG3095"
+    },
+    {
+        "YALI0A14498g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4111",
+        "index": "144_4110",
+        "ortholog": "OG3714"
+    },
+    {
+        "YALI0C20427g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3768",
+        "index": "144_3767",
+        "ortholog": "OG3030"
+    },
+    {
+        "YALI0D16797g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1521",
+        "index": "144_1520",
+        "ortholog": "OG3319"
+    },
+    {
+        "YALI0C17831g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3117",
+        "index": "144_3116",
+        "ortholog": "OG2031"
+    },
+    {
+        "YALI0E30129g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2445",
+        "index": "144_2444",
+        "ortholog": "OG2186"
+    },
+    {
+        "YALI0B15884g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2617",
+        "index": "144_2616",
+        "ortholog": "OG2903"
+    },
+    {
+        "YALI0A09042g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_485",
+        "index": "144_484",
+        "ortholog": "OG2783"
+    },
+    {
+        "YALI0C18205g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1147",
+        "index": "144_1146",
+        "ortholog": "OG3069"
+    },
+    {
+        "YALI0E15224g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_100",
+        "index": "144_99",
+        "ortholog": "OG2684"
+    },
+    {
+        "YALI0C19195g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_197",
+        "index": "144_196",
+        "ortholog": "OG3377"
+    },
+    {
+        "YALI0C19712g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_486",
+        "index": "144_485",
+        "ortholog": "OG3205"
+    },
+    {
+        "YALI0C24101g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2803",
+        "index": "144_2802",
+        "ortholog": "OG1313"
+    },
+    {
+        "YALI0C23617g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4073",
+        "index": "144_4072",
+        "ortholog": "OG1078"
+    },
+    {
+        "YALI0D20768g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1613",
+        "index": "144_1612",
+        "ortholog": "OG1629"
+    },
+    {
+        "YALI0C10989g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5703",
+        "index": "144_5702",
+        "ortholog": "OG1468"
+    },
+    {
+        "YALI0F20262g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1379",
+        "index": "144_1378",
+        "ortholog": "OG3657"
+    },
+    {
+        "YALI0F26323g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4526",
+        "index": "144_4525",
+        "ortholog": "OG2422"
+    },
+    {
+        "YALI0B19998g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4060",
+        "index": "144_4059",
+        "ortholog": "OG1589"
+    },
+    {
+        "YALI0D07986g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1690",
+        "index": "144_1689",
+        "ortholog": "OG6344"
+    },
+    {
+        "YALI0C01419g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3124",
+        "index": "144_3123",
+        "ortholog": "OG5176"
+    },
+    {
+        "YALI0B17688g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1543",
+        "index": "144_1542",
+        "ortholog": "OG3313"
+    },
+    {
+        "YALI0F02607g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2621",
+        "index": "144_2620",
+        "ortholog": "OG5299"
+    },
+    {
+        "YALI0E10307g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3509",
+        "index": "144_3508",
+        "ortholog": "OG1375"
+    },
+    {
+        "YALI0F25795g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4276",
+        "index": "144_4275",
+        "ortholog": "OG3421"
+    },
+    {
+        "YALI0D14322g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1140",
+        "index": "144_1139",
+        "ortholog": "OG2573"
+    },
+    {
+        "YALI0F02013g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2833",
+        "index": "144_2832",
+        "ortholog": "OG1220"
+    },
+    {
+        "YALI0E04048g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2792",
+        "index": "144_2791",
+        "ortholog": "OG2343"
+    },
+    {
+        "YALI0F17820g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_806",
+        "index": "144_805",
+        "ortholog": "OG1892"
+    },
+    {
+        "YALI0E16929g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5199",
+        "index": "144_5198",
+        "ortholog": "OG1924"
+    },
+    {
+        "YALI0D24607g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3359",
+        "index": "144_3358",
+        "ortholog": "OG1073"
+    },
+    {
+        "YALI0C04433g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4961",
+        "index": "144_4960",
+        "ortholog": "OG1685"
+    },
+    {
+        "YALI0E20977g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_286",
+        "index": "144_285",
+        "ortholog": "OG1377"
+    },
+    {
+        "YALI0C05951g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3331",
+        "index": "144_3330",
+        "ortholog": "OG1470"
+    },
+    {
+        "YALI0E12463g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2216",
+        "index": "144_2215",
+        "ortholog": "OG3782"
+    },
+    {
+        "YALI0F19514g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2284",
+        "index": "144_2283",
+        "ortholog": "OG3098"
+    },
+    {
+        "YALI0E16797g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3782",
+        "index": "144_3781",
+        "ortholog": "OG1704"
+    },
+    {
+        "YALI0E30283g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5957",
+        "index": "144_5956",
+        "ortholog": "OG1519"
+    },
+    {
+        "YALI0E24167g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_598",
+        "index": "144_597",
+        "ortholog": "OG1555"
+    },
+    {
+        "YALI0F04169g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4648",
+        "index": "144_4647",
+        "ortholog": "OG2841"
+    },
+    {
+        "YALI0E12573g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5878",
+        "index": "144_5877",
+        "ortholog": "OG7827"
+    },
+    {
+        "YALI0B14619g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5140",
+        "index": "144_5139",
+        "ortholog": "OG1168"
+    },
+    {
+        "YALI0E05203g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5468",
+        "index": "144_5467",
+        "ortholog": "OG1564"
+    },
+    {
+        "YALI0D07392g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4161",
+        "index": "144_4160",
+        "ortholog": "OG1228"
+    },
+    {
+        "YALI0F30569g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2805",
+        "index": "144_2804",
+        "ortholog": "OG1142"
+    },
+    {
+        "YALI0F23903g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4745",
+        "index": "144_4744",
+        "ortholog": "OG1195"
+    },
+    {
+        "YALI0F09603g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6369",
+        "index": "144_6368",
+        "ortholog": "OG1521"
+    },
+    {
+        "YALI0C20405g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3498",
+        "index": "144_3497",
+        "ortholog": "OG3241"
+    },
+    {
+        "YALI0B00220g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2971",
+        "index": "144_2970",
+        "ortholog": "OG3767"
+    },
+    {
+        "YALI0B11154g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1247",
+        "index": "144_1246",
+        "ortholog": "OG1318"
+    },
+    {
+        "YALI0B03124g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_990",
+        "index": "144_989",
+        "ortholog": "OG5323"
+    },
+    {
+        "YALI0E21197g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2269",
+        "index": "144_2268",
+        "ortholog": "OG1640"
+    },
+    {
+        "YALI0B00726g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1850",
+        "index": "144_1849",
+        "ortholog": "OG1783"
+    },
+    {
+        "YALI0C16522g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3887",
+        "index": "144_3886",
+        "ortholog": "OG4232"
+    },
+    {
+        "YALI0E18898g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2576",
+        "index": "144_2575",
+        "ortholog": "OG1625"
+    },
+    {
+        "YALI0F09625g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1359",
+        "index": "144_1358",
+        "ortholog": "OG2578"
+    },
+    {
+        "YALI0F20900g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3738",
+        "index": "144_3737",
+        "ortholog": "OG2647"
+    },
+    {
+        "YALI0D19426g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2509",
+        "index": "144_2508",
+        "ortholog": "OG3025"
+    },
+    {
+        "YALI0F14729g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4951",
+        "index": "144_4950",
+        "ortholog": "OG1180"
+    },
+    {
+        "YALI0F10010g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3376",
+        "index": "144_3375",
+        "ortholog": "OG1281"
+    },
+    {
+        "YALI0E02288g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_527",
+        "index": "144_526",
+        "ortholog": "OG1977"
+    },
+    {
+        "YALI0D06501g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5728",
+        "index": "144_5727",
+        "ortholog": "OG2356"
+    },
+    {
+        "YALI0F12199g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3137",
+        "index": "144_3136",
+        "ortholog": "OG1394"
+    },
+    {
+        "YALI0E34672g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3954",
+        "index": "144_3953",
+        "ortholog": "OG2436"
+    },
+    {
+        "YALI0E20471g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4338",
+        "index": "144_4337",
+        "ortholog": "OG1017"
+    },
+    {
+        "YALI0E07271g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4826",
+        "index": "144_4825",
+        "ortholog": "OG1168"
+    },
+    {
+        "YALI0C11407g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_536",
+        "index": "144_535",
+        "ortholog": "OG1710"
+    },
+    {
+        "YALI0B18759g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_447",
+        "index": "144_446",
+        "ortholog": "OG1367"
+    },
+    {
+        "YALI0B13970g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2074",
+        "index": "144_2073",
+        "ortholog": "OG3100"
+    },
+    {
+        "YALI0B14729g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4957",
+        "index": "144_4956",
+        "ortholog": "OG2924"
+    },
+    {
+        "YALI0B14927g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2361",
+        "index": "144_2360",
+        "ortholog": "OG2970"
+    },
+    {
+        "YALI0F07260g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4993",
+        "index": "144_4992",
+        "ortholog": "OG2749"
+    },
+    {
+        "YALI0F16093g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3207",
+        "index": "144_3206",
+        "ortholog": "OG4604"
+    },
+    {
+        "YALI0F00462g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1632",
+        "index": "144_1631",
+        "ortholog": "OG4477"
+    },
+    {
+        "YALI0F03597g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1734",
+        "index": "144_1733",
+        "ortholog": "OG3917"
+    },
+    {
+        "YALI0F23221g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3491",
+        "index": "144_3490",
+        "ortholog": "OG1603"
+    },
+    {
+        "YALI0F13453g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6362",
+        "index": "144_6361",
+        "ortholog": "OG3120"
+    },
+    {
+        "YALI0E18029g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3641",
+        "index": "144_3640",
+        "ortholog": "OG1684"
+    },
+    {
+        "YALI0E02310g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6198",
+        "index": "144_6197",
+        "ortholog": "OG1497"
+    },
+    {
+        "YALI0D01309g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4215",
+        "index": "144_4214",
+        "ortholog": "OG3416"
+    },
+    {
+        "YALI0C06083g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_290",
+        "index": "144_289",
+        "ortholog": "OG1899"
+    },
+    {
+        "YALI0E31009g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1994",
+        "index": "144_1993",
+        "ortholog": "OG2183"
+    },
+    {
+        "YALI0C13574g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5998",
+        "index": "144_5997",
+        "ortholog": "OG1058"
+    },
+    {
+        "YALI0D00605g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5855",
+        "index": "144_5854",
+        "ortholog": "OG3557"
+    },
+    {
+        "YALI0D10813g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5183",
+        "index": "144_5182",
+        "ortholog": "OG4476"
+    },
+    {
+        "YALI0F20702g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_529",
+        "index": "144_528",
+        "ortholog": "OG2807"
+    },
+    {
+        "YALI0D23683g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4419",
+        "index": "144_4418",
+        "ortholog": "OG2071"
+    },
+    {
+        "YALI0E30965g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4803",
+        "index": "144_4802",
+        "ortholog": "OG1429"
+    },
+    {
+        "YALI0F17842g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5437",
+        "index": "144_5436",
+        "ortholog": "OG1822"
+    },
+    {
+        "YALI0C02431g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5913",
+        "index": "144_5912",
+        "ortholog": "OG3467"
+    },
+    {
+        "YALI0F08283g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6142",
+        "index": "144_6141",
+        "ortholog": "OG1457"
+    },
+    {
+        "YALI0B06006g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5085",
+        "index": "144_5084",
+        "ortholog": "OG1004"
+    },
+    {
+        "YALI0D05797g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_792",
+        "index": "144_791",
+        "ortholog": "OG2282"
+    },
+    {
+        "YALI0B22550g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4665",
+        "index": "144_4664",
+        "ortholog": "OG7650"
+    },
+    {
+        "YALI0B19338g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4602",
+        "index": "144_4601",
+        "ortholog": "OG1127"
+    },
+    {
+        "YALI0E16643g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5283",
+        "index": "144_5282",
+        "ortholog": "OG3336"
+    },
+    {
+        "YALI0E18568g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_140",
+        "index": "144_139",
+        "ortholog": "OG1364"
+    },
+    {
+        "YALI0F18502g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2545",
+        "index": "144_2544",
+        "ortholog": "OG1266"
+    },
+    {
+        "YALI0C06798g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5780",
+        "index": "144_5779",
+        "ortholog": "OG1659"
+    },
+    {
+        "YALI0F06842g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6201",
+        "index": "144_6200",
+        "ortholog": "OG1141"
+    },
+    {
+        "YALI0A05379g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_733",
+        "index": "144_732",
+        "ortholog": "OG2262"
+    },
+    {
+        "YALI0E21307g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4848",
+        "index": "144_4847",
+        "ortholog": "OG1178"
+    },
+    {
+        "YALI0F31427g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6319",
+        "index": "144_6318",
+        "ortholog": "OG4160"
+    },
+    {
+        "YALI0B22066g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2560",
+        "index": "144_2559",
+        "ortholog": "OG1171"
+    },
+    {
+        "YALI0D09867g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_262",
+        "index": "144_261",
+        "ortholog": "OG3935"
+    },
+    {
+        "YALI0B02852g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2301",
+        "index": "144_2300",
+        "ortholog": "OG4102"
+    },
+    {
+        "YALI0B22902g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1117",
+        "index": "144_1116",
+        "ortholog": "OG3740"
+    },
+    {
+        "YALI0E27874g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5356",
+        "index": "144_5355",
+        "ortholog": "OG1200"
+    },
+    {
+        "YALI0F25641g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4009",
+        "index": "144_4008",
+        "ortholog": "OG1356"
+    },
+    {
+        "YALI0C23342g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5292",
+        "index": "144_5291",
+        "ortholog": "OG3699"
+    },
+    {
+        "YALI0C08811g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1537",
+        "index": "144_1536",
+        "ortholog": "OG7073"
+    },
+    {
+        "YALI0D25476g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6007",
+        "index": "144_6006",
+        "ortholog": "OG2190"
+    },
+    {
+        "YALI0E06413g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_354",
+        "index": "144_353",
+        "ortholog": "OG3008"
+    },
+    {
+        "YALI0C06996g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6430",
+        "index": "144_6429",
+        "ortholog": "OG1491"
+    },
+    {
+        "YALI0C18755g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1494",
+        "index": "144_1493",
+        "ortholog": "OG3062"
+    },
+    {
+        "YALI0F05610g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4139",
+        "index": "144_4138",
+        "ortholog": "OG2123"
+    },
+    {
+        "YALI0B09537g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6077",
+        "index": "144_6076",
+        "ortholog": "OG1164"
+    },
+    {
+        "YALI0D25168g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_959",
+        "index": "144_958",
+        "ortholog": "OG1944"
+    },
+    {
+        "YALI0C16995g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6090",
+        "index": "144_6089",
+        "ortholog": "OG1881"
+    },
+    {
+        "YALI0A20680g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1020",
+        "index": "144_1019",
+        "ortholog": "OG4487"
+    },
+    {
+        "YALI0B00792g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5096",
+        "index": "144_5095",
+        "ortholog": "OG4565"
+    },
+    {
+        "YALI0B14861g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5956",
+        "index": "144_5955",
+        "ortholog": "OG4767"
+    },
+    {
+        "YALI0B20372g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6255",
+        "index": "144_6254",
+        "ortholog": "OG4375"
+    },
+    {
+        "YALI0C03201g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3682",
+        "index": "144_3681",
+        "ortholog": "OG4856"
+    },
+    {
+        "YALI0D00737g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1842",
+        "index": "144_1841",
+        "ortholog": "OG4469"
+    },
+    {
+        "YALI0D04939g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3383",
+        "index": "144_3382",
+        "ortholog": "OG4445"
+    },
+    {
+        "YALI0D05467g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3201",
+        "index": "144_3200",
+        "ortholog": "OG4617"
+    },
+    {
+        "YALI0D07216g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1493",
+        "index": "144_1492",
+        "ortholog": "OG4801"
+    },
+    {
+        "YALI0D14850g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5488",
+        "index": "144_5487",
+        "ortholog": "OG17051"
+    },
+    {
+        "YALI0D19030g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1222",
+        "index": "144_1221",
+        "ortholog": "OG4770"
+    },
+    {
+        "YALI0D24585g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5638",
+        "index": "144_5637",
+        "ortholog": "OG4619"
+    },
+    {
+        "YALI0E23089g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5615",
+        "index": "144_5614",
+        "ortholog": "OG4785"
+    },
+    {
+        "YALI0E31766g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2812",
+        "index": "144_2811",
+        "ortholog": "OG4521"
+    },
+    {
+        "YALI0F00924g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5599",
+        "index": "144_5598",
+        "ortholog": "OG4447"
+    },
+    {
+        "YALI0F02123g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1899",
+        "index": "144_1898",
+        "ortholog": "OG4532"
+    },
+    {
+        "YALI0F06050g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3524",
+        "index": "144_3523",
+        "ortholog": "OG4444"
+    },
+    {
+        "YALI0F17248g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1854",
+        "index": "144_1853",
+        "ortholog": "OG4423"
+    },
+    {
+        "YALI0F18359g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_274",
+        "index": "144_273",
+        "ortholog": "OG5936"
+    },
+    {
+        "YALI0E05599g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5093",
+        "index": "144_5092",
+        "ortholog": "OG4908"
+    },
+    {
+        "YALI0F25135g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3197",
+        "index": "144_3196",
+        "ortholog": "OG1199"
+    },
+    {
+        "YALI0A02915g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2822",
+        "index": "144_2821",
+        "ortholog": "OG3575"
+    },
+    {
+        "YALI0B16522g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3975",
+        "index": "144_3974",
+        "ortholog": "OG1001"
+    },
+    {
+        "YALI0B11330g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2322",
+        "index": "144_2321",
+        "ortholog": "OG3445"
+    },
+    {
+        "YALI0D17864g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6409",
+        "index": "144_6408",
+        "ortholog": "OG1240"
+    },
+    {
+        "YALI0B19382g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2042",
+        "index": "144_2041",
+        "ortholog": "OG1316"
+    },
+    {
+        "YALI0B15059g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4875",
+        "index": "144_4874",
+        "ortholog": "OG1463"
+    },
+    {
+        "YALI0F30679g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_503",
+        "index": "144_502",
+        "ortholog": "OG2215"
+    },
+    {
+        "YALI0E27005g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1881",
+        "index": "144_1880",
+        "ortholog": "OG1959"
+    },
+    {
+        "YALI0C01111g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3234",
+        "index": "144_3233",
+        "ortholog": "OG2369"
+    },
+    {
+        "YALI0A12045g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3483",
+        "index": "144_3482",
+        "ortholog": "OG4010"
+    },
+    {
+        "YALI0B08965g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_718",
+        "index": "144_717",
+        "ortholog": "OG2061"
+    },
+    {
+        "YALI0E25652g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_713",
+        "index": "144_712",
+        "ortholog": "OG1473"
+    },
+    {
+        "YALI0F07062g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6056",
+        "index": "144_6055",
+        "ortholog": "OG1130"
+    },
+    {
+        "YALI0F13739g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_128",
+        "index": "144_127",
+        "ortholog": "OG4537"
+    },
+    {
+        "YALI0D06325g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1212",
+        "index": "144_1211",
+        "ortholog": "OG1264"
+    },
+    {
+        "YALI0E09108g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1298",
+        "index": "144_1297",
+        "ortholog": "OG4016"
+    },
+    {
+        "YALI0B12078g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1633",
+        "index": "144_1632",
+        "ortholog": "OG2074"
+    },
+    {
+        "YALI0B15598g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1481",
+        "index": "144_1480",
+        "ortholog": "OG1488"
+    },
+    {
+        "YALI0E22649g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3455",
+        "index": "144_3454",
+        "ortholog": "OG1333"
+    },
+    {
+        "YALI0F17996g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2577",
+        "index": "144_2576",
+        "ortholog": "OG1003"
+    },
+    {
+        "YALI0C05258g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5497",
+        "index": "144_5496",
+        "ortholog": "OG3639"
+    },
+    {
+        "YALI0A09856g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4455",
+        "index": "144_4454",
+        "ortholog": "OG2227"
+    },
+    {
+        "YALI0E33517g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4554",
+        "index": "144_4553",
+        "ortholog": "OG1585"
+    },
+    {
+        "YALI0F04095g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_958",
+        "index": "144_957",
+        "ortholog": "OG1056"
+    },
+    {
+        "YALI0D06798g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4169",
+        "index": "144_4168",
+        "ortholog": "OG1393"
+    },
+    {
+        "YALI0A21153g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_221",
+        "index": "144_220",
+        "ortholog": "OG3488"
+    },
+    {
+        "YALI0F26191g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4005",
+        "index": "144_4004",
+        "ortholog": "OG1126"
+    },
+    {
+        "YALI0E20713g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_27",
+        "index": "144_26",
+        "ortholog": "OG2149"
+    },
+    {
+        "YALI0E16907g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5841",
+        "index": "144_5840",
+        "ortholog": "OG2182"
+    },
+    {
+        "YALI0D18271g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2841",
+        "index": "144_2840",
+        "ortholog": "OG2214"
+    },
+    {
+        "YALI0D17072g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_785",
+        "index": "144_784",
+        "ortholog": "OG4396"
+    },
+    {
+        "YALI0E17347g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3718",
+        "index": "144_3717",
+        "ortholog": "OG1615"
+    },
+    {
+        "YALI0E25740g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4383",
+        "index": "144_4382",
+        "ortholog": "OG1380"
+    },
+    {
+        "YALI0F26587g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2027",
+        "index": "144_2026",
+        "ortholog": "OG5376"
+    },
+    {
+        "YALI0B09647g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2502",
+        "index": "144_2501",
+        "ortholog": "OG1595"
+    },
+    {
+        "YALI0F23749g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5596",
+        "index": "144_5595",
+        "ortholog": "OG6688"
+    },
+    {
+        "YALI0E07073g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2160",
+        "index": "144_2159",
+        "ortholog": "OG3509"
+    },
+    {
+        "YALI0E11495g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1104",
+        "index": "144_1103",
+        "ortholog": "OG1622"
+    },
+    {
+        "YALI0B04202g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5617",
+        "index": "144_5616",
+        "ortholog": "OG1980"
+    },
+    {
+        "YALI0B22924g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5744",
+        "index": "144_5743",
+        "ortholog": "OG2788"
+    },
+    {
+        "YALI0A18183g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1196",
+        "index": "144_1195",
+        "ortholog": "OG1216"
+    },
+    {
+        "YALI0F30129g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4593",
+        "index": "144_4592",
+        "ortholog": "OG3207"
+    },
+    {
+        "YALI0B02728g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5902",
+        "index": "144_5901",
+        "ortholog": "OG2794"
+    },
+    {
+        "YALI0A02717g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4284",
+        "index": "144_4283",
+        "ortholog": "OG3470"
+    },
+    {
+        "YALI0F19052g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3620",
+        "index": "144_3619",
+        "ortholog": "OG2514"
+    },
+    {
+        "YALI0F15433g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4789",
+        "index": "144_4788",
+        "ortholog": "OG1741"
+    },
+    {
+        "YALI0E20163g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3567",
+        "index": "144_3566",
+        "ortholog": "OG5130"
+    },
+    {
+        "YALI0D01089g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5660",
+        "index": "144_5659",
+        "ortholog": "OG1810"
+    },
+    {
+        "YALI0D02629g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2365",
+        "index": "144_2364",
+        "ortholog": "OG1510"
+    },
+    {
+        "YALI0E28963g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4557",
+        "index": "144_4556",
+        "ortholog": "OG2086"
+    },
+    {
+        "YALI0F11627g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6231",
+        "index": "144_6230",
+        "ortholog": "OG4711"
+    },
+    {
+        "YALI0D23815g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4351",
+        "index": "144_4350",
+        "ortholog": "OG7605"
+    },
+    {
+        "YALI0D08690g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1213",
+        "index": "144_1212",
+        "ortholog": "OG7557"
+    },
+    {
+        "YALI0F05038g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6085",
+        "index": "144_6084",
+        "ortholog": "OG7606"
+    },
+    {
+        "YALI0A20108g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3011",
+        "index": "144_3010",
+        "ortholog": "OG1857"
+    },
+    {
+        "YALI0F19712g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5973",
+        "index": "144_5972",
+        "ortholog": "OG1244"
+    },
+    {
+        "YALI0A10659g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4899",
+        "index": "144_4898",
+        "ortholog": "OG1244"
+    },
+    {
+        "YALI0D21032g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5131",
+        "index": "144_5130",
+        "ortholog": "OG3128"
+    },
+    {
+        "YALI0C05753g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1429",
+        "index": "144_1428",
+        "ortholog": "OG1604"
+    },
+    {
+        "YALI0D26147g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_454",
+        "index": "144_453",
+        "ortholog": "OG2835"
+    },
+    {
+        "YALI0A09900g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5076",
+        "index": "144_5075",
+        "ortholog": "OG1656"
+    },
+    {
+        "YALI0A11143g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_2694",
+        "index": "144_2693",
+        "ortholog": "OG2469"
+    },
+    {
+        "YALI0B03982g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_707",
+        "index": "144_706",
+        "ortholog": "OG1802"
+    },
+    {
+        "YALI0B06831g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1568",
+        "index": "144_1567",
+        "ortholog": "OG3747"
+    },
+    {
+        "YALI0B21527g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1974",
+        "index": "144_1973",
+        "ortholog": "OG3923"
+    },
+    {
+        "YALI0D00583g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_3302",
+        "index": "144_3301",
+        "ortholog": "OG2635"
+    },
+    {
+        "YALI0D11814g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1666",
+        "index": "144_1665",
+        "ortholog": "OG3794"
+    },
+    {
+        "YALI0D12584g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_691",
+        "index": "144_690",
+        "ortholog": "OG2701"
+    },
+    {
+        "YALI0D17490g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_1609",
+        "index": "144_1608",
+        "ortholog": "OG4198"
+    },
+    {
+        "YALI0D22022g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5657",
+        "index": "144_5656",
+        "ortholog": "OG2402"
+    },
+    {
+        "YALI0E08617g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6158",
+        "index": "144_6157",
+        "ortholog": "OG2820"
+    },
+    {
+        "YALI0E09933g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_312",
+        "index": "144_311",
+        "ortholog": "OG1046"
+    },
+    {
+        "YALI0E11355g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5884",
+        "index": "144_5883",
+        "ortholog": "OG4068"
+    },
+    {
+        "YALI0E16192g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6317",
+        "index": "144_6316",
+        "ortholog": "OG1842"
+    },
+    {
+        "YALI0E27346g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4637",
+        "index": "144_4636",
+        "ortholog": "OG2332"
+    },
+    {
+        "YALI0E31471g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_877",
+        "index": "144_876",
+        "ortholog": "OG2367"
+    },
+    {
+        "YALI0F02893g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4829",
+        "index": "144_4828",
+        "ortholog": "OG2644"
+    },
+    {
+        "YALI0F03179g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_174",
+        "index": "144_173",
+        "ortholog": "OG1533"
+    },
+    {
+        "YALI0F04774g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5778",
+        "index": "144_5777",
+        "ortholog": "OG3378"
+    },
+    {
+        "YALI0F09405g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_655",
+        "index": "144_654",
+        "ortholog": "OG3546"
+    },
+    {
+        "YALI0F15631g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_5450",
+        "index": "144_5449",
+        "ortholog": "OG4357"
+    },
+    {
+        "YALI0F16181g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4563",
+        "index": "144_4562",
+        "ortholog": "OG2004"
+    },
+    {
+        "YALI0F20306g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_6279",
+        "index": "144_6278",
+        "ortholog": "OG2132"
+    },
+    {
+        "YALI0F24475g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_839",
+        "index": "144_838",
+        "ortholog": "OG1449"
+    },
+    {
+        "YALI0F31119g": "NE",
+        "id": "Yarrowia_lipolytica@Seq_4434",
+        "index": "144_4433",
+        "ortholog": "OG1046"
+    }
+]

@@ -1,0 +1,3482 @@
+[
+    {
+        "PAS_chr2-1_0500": "E",
+        "id": "Komagataella_pastoris@Seq_11",
+        "index": "52_10",
+        "ortholog": "OG3209"
+    },
+    {
+        "PAS_chr4_0709": "E",
+        "id": "Komagataella_pastoris@Seq_2560",
+        "index": "52_2559",
+        "ortholog": "OG1811"
+    },
+    {
+        "PAS_chr2-2_0044": "E",
+        "id": "Komagataella_pastoris@Seq_791",
+        "index": "52_790",
+        "ortholog": "OG1695"
+    },
+    {
+        "PAS_chr3_0376": "E",
+        "id": "Komagataella_pastoris@Seq_4404",
+        "index": "52_4403",
+        "ortholog": "OG1550"
+    },
+    {
+        "PAS_chr3_0157": "E",
+        "id": "Komagataella_pastoris@Seq_3732",
+        "index": "52_3731",
+        "ortholog": "OG2731"
+    },
+    {
+        "PAS_chr1-3_0238": "E",
+        "id": "Komagataella_pastoris@Seq_3069",
+        "index": "52_3068",
+        "ortholog": "OG1785"
+    },
+    {
+        "PAS_chr2-1_0163": "E",
+        "id": "Komagataella_pastoris@Seq_1469",
+        "index": "52_1468",
+        "ortholog": "OG1987"
+    },
+    {
+        "PAS_chr3_0568": "E",
+        "id": "Komagataella_pastoris@Seq_998",
+        "index": "52_997",
+        "ortholog": "OG1028"
+    },
+    {
+        "PAS_chr1-4_0463": "E",
+        "id": "Komagataella_pastoris@Seq_4023",
+        "index": "52_4022",
+        "ortholog": "OG1843"
+    },
+    {
+        "PAS_chr3_0949": "E",
+        "id": "Komagataella_pastoris@Seq_1102",
+        "index": "52_1101",
+        "ortholog": "OG1742"
+    },
+    {
+        "PAS_chr3_0166": "E",
+        "id": "Komagataella_pastoris@Seq_1110",
+        "index": "52_1109",
+        "ortholog": "OG1335"
+    },
+    {
+        "PAS_chr2-2_0480": "E",
+        "id": "Komagataella_pastoris@Seq_3543",
+        "index": "52_3542",
+        "ortholog": "OG1365"
+    },
+    {
+        "PAS_chr4_0906": "E",
+        "id": "Komagataella_pastoris@Seq_3142",
+        "index": "52_3141",
+        "ortholog": "OG1720"
+    },
+    {
+        "PAS_chr2-2_0219": "E",
+        "id": "Komagataella_pastoris@Seq_2442",
+        "index": "52_2441",
+        "ortholog": "OG1975"
+    },
+    {
+        "PAS_chr3_1115": "E",
+        "id": "Komagataella_pastoris@Seq_281",
+        "index": "52_280",
+        "ortholog": "OG1880"
+    },
+    {
+        "PAS_chr4_0398": "E",
+        "id": "Komagataella_pastoris@Seq_283",
+        "index": "52_282",
+        "ortholog": "OG2552"
+    },
+    {
+        "PAS_chr3_0890": "E",
+        "id": "Komagataella_pastoris@Seq_3265",
+        "index": "52_3264",
+        "ortholog": "OG1691"
+    },
+    {
+        "PAS_chr4_0276": "E",
+        "id": "Komagataella_pastoris@Seq_4528",
+        "index": "52_4527",
+        "ortholog": "OG1856"
+    },
+    {
+        "PAS_chr2-2_0053": "E",
+        "id": "Komagataella_pastoris@Seq_2293",
+        "index": "52_2292",
+        "ortholog": "OG2347"
+    },
+    {
+        "PAS_chr1-4_0604": "E",
+        "id": "Komagataella_pastoris@Seq_1884",
+        "index": "52_1883",
+        "ortholog": "OG2116"
+    },
+    {
+        "PAS_chr1-4_0598": "E",
+        "id": "Komagataella_pastoris@Seq_1338",
+        "index": "52_1337",
+        "ortholog": "OG1512"
+    },
+    {
+        "PAS_chr3_0053": "E",
+        "id": "Komagataella_pastoris@Seq_4782",
+        "index": "52_4781",
+        "ortholog": "OG1121"
+    },
+    {
+        "PAS_chr3_0754": "E",
+        "id": "Komagataella_pastoris@Seq_3304",
+        "index": "52_3303",
+        "ortholog": "OG1332"
+    },
+    {
+        "PAS_chr3_0124": "E",
+        "id": "Komagataella_pastoris@Seq_491",
+        "index": "52_490",
+        "ortholog": "OG4061"
+    },
+    {
+        "PAS_chr4_0522": "E",
+        "id": "Komagataella_pastoris@Seq_463",
+        "index": "52_462",
+        "ortholog": "OG2194"
+    },
+    {
+        "PAS_chr2-1_0346": "E",
+        "id": "Komagataella_pastoris@Seq_1146",
+        "index": "52_1145",
+        "ortholog": "OG1706"
+    },
+    {
+        "PAS_chr1-1_0390": "E",
+        "id": "Komagataella_pastoris@Seq_4313",
+        "index": "52_4312",
+        "ortholog": "OG1061"
+    },
+    {
+        "PAS_chr1-1_0391": "E",
+        "id": "Komagataella_pastoris@Seq_332",
+        "index": "52_331",
+        "ortholog": "OG1662"
+    },
+    {
+        "PAS_chr2-1_0391": "E",
+        "id": "Komagataella_pastoris@Seq_3251",
+        "index": "52_3250",
+        "ortholog": "OG1565"
+    },
+    {
+        "PAS_chr3_0317": "E",
+        "id": "Komagataella_pastoris@Seq_2890",
+        "index": "52_2889",
+        "ortholog": "OG2498"
+    },
+    {
+        "PAS_chr4_0344": "E",
+        "id": "Komagataella_pastoris@Seq_1298",
+        "index": "52_1297",
+        "ortholog": "OG2299"
+    },
+    {
+        "PAS_chr2-2_0238": "E",
+        "id": "Komagataella_pastoris@Seq_4013",
+        "index": "52_4012",
+        "ortholog": "OG1771"
+    },
+    {
+        "PAS_chr4_0323": "E",
+        "id": "Komagataella_pastoris@Seq_3612",
+        "index": "52_3611",
+        "ortholog": "OG2475"
+    },
+    {
+        "PAS_chr3_0222": "E",
+        "id": "Komagataella_pastoris@Seq_1697",
+        "index": "52_1696",
+        "ortholog": "OG3624"
+    },
+    {
+        "PAS_chr1-4_0314": "E",
+        "id": "Komagataella_pastoris@Seq_2611",
+        "index": "52_2610",
+        "ortholog": "OG2156"
+    },
+    {
+        "PAS_chr2-1_0395": "E",
+        "id": "Komagataella_pastoris@Seq_843",
+        "index": "52_842",
+        "ortholog": "OG3603"
+    },
+    {
+        "PAS_chr1-4_0458": "E",
+        "id": "Komagataella_pastoris@Seq_4726",
+        "index": "52_4725",
+        "ortholog": "OG1445"
+    },
+    {
+        "PAS_chr2-2_0330": "E",
+        "id": "Komagataella_pastoris@Seq_206",
+        "index": "52_205",
+        "ortholog": "OG1242"
+    },
+    {
+        "PAS_chr2-1_0543": "E",
+        "id": "Komagataella_pastoris@Seq_4345",
+        "index": "52_4344",
+        "ortholog": "OG2290"
+    },
+    {
+        "PAS_chr1-3_0122": "E",
+        "id": "Komagataella_pastoris@Seq_241",
+        "index": "52_240",
+        "ortholog": "OG1671"
+    },
+    {
+        "PAS_chr4_0735": "E",
+        "id": "Komagataella_pastoris@Seq_453",
+        "index": "52_452",
+        "ortholog": "OG2856"
+    },
+    {
+        "PAS_chr1-1_0008": "E",
+        "id": "Komagataella_pastoris@Seq_785",
+        "index": "52_784",
+        "ortholog": "OG1463"
+    },
+    {
+        "PAS_chr1-4_0095": "E",
+        "id": "Komagataella_pastoris@Seq_3859",
+        "index": "52_3858",
+        "ortholog": "OG2433"
+    },
+    {
+        "PAS_chr3_0144": "E",
+        "id": "Komagataella_pastoris@Seq_4829",
+        "index": "52_4828",
+        "ortholog": "OG2014"
+    },
+    {
+        "PAS_chr2-1_0628": "E",
+        "id": "Komagataella_pastoris@Seq_400",
+        "index": "52_399",
+        "ortholog": "OG3551"
+    },
+    {
+        "PAS_chr1-1_0432": "E",
+        "id": "Komagataella_pastoris@Seq_150",
+        "index": "52_149",
+        "ortholog": "OG1569"
+    },
+    {
+        "PAS_chr2-2_0329": "E",
+        "id": "Komagataella_pastoris@Seq_487",
+        "index": "52_486",
+        "ortholog": "OG2148"
+    },
+    {
+        "PAS_chr2-1_0191": "E",
+        "id": "Komagataella_pastoris@Seq_2117",
+        "index": "52_2116",
+        "ortholog": "OG1904"
+    },
+    {
+        "PAS_chr1-3_0187": "E",
+        "id": "Komagataella_pastoris@Seq_3827",
+        "index": "52_3826",
+        "ortholog": "OG2678"
+    },
+    {
+        "PAS_chr2-2_0318": "E",
+        "id": "Komagataella_pastoris@Seq_3137",
+        "index": "52_3136",
+        "ortholog": "OG2567"
+    },
+    {
+        "PAS_chr2-2_0349": "E",
+        "id": "Komagataella_pastoris@Seq_853",
+        "index": "52_852",
+        "ortholog": "OG1911"
+    },
+    {
+        "PAS_chr1-4_0514": "E",
+        "id": "Komagataella_pastoris@Seq_3592",
+        "index": "52_3591",
+        "ortholog": "OG1646"
+    },
+    {
+        "PAS_chr1-3_0083": "E",
+        "id": "Komagataella_pastoris@Seq_3520",
+        "index": "52_3519",
+        "ortholog": "OG1737"
+    },
+    {
+        "PAS_chr4_0697": "E",
+        "id": "Komagataella_pastoris@Seq_1805",
+        "index": "52_1804",
+        "ortholog": "OG3190"
+    },
+    {
+        "PAS_chr1-4_0249": "E",
+        "id": "Komagataella_pastoris@Seq_3376",
+        "index": "52_3375",
+        "ortholog": "OG1710"
+    },
+    {
+        "PAS_chr1-4_0003": "E",
+        "id": "Komagataella_pastoris@Seq_3885",
+        "index": "52_3884",
+        "ortholog": "OG3774"
+    },
+    {
+        "PAS_chr3_0244": "E",
+        "id": "Komagataella_pastoris@Seq_2342",
+        "index": "52_2341",
+        "ortholog": "OG2391"
+    },
+    {
+        "PAS_chr3_0165": "E",
+        "id": "Komagataella_pastoris@Seq_4702",
+        "index": "52_4701",
+        "ortholog": "OG1988"
+    },
+    {
+        "PAS_chr3_0996": "E",
+        "id": "Komagataella_pastoris@Seq_4611",
+        "index": "52_4610",
+        "ortholog": "OG2129"
+    },
+    {
+        "PAS_chr4_0302": "E",
+        "id": "Komagataella_pastoris@Seq_943",
+        "index": "52_942",
+        "ortholog": "OG1028"
+    },
+    {
+        "PAS_chr2-1_0125": "E",
+        "id": "Komagataella_pastoris@Seq_757",
+        "index": "52_756",
+        "ortholog": "OG1033"
+    },
+    {
+        "PAS_chr3_0285": "E",
+        "id": "Komagataella_pastoris@Seq_2807",
+        "index": "52_2806",
+        "ortholog": "OG1847"
+    },
+    {
+        "PAS_chr4_0239": "E",
+        "id": "Komagataella_pastoris@Seq_3082",
+        "index": "52_3081",
+        "ortholog": "OG1033"
+    },
+    {
+        "PAS_chr2-1_0223": "E",
+        "id": "Komagataella_pastoris@Seq_417",
+        "index": "52_416",
+        "ortholog": "OG2828"
+    },
+    {
+        "PAS_chr2-2_0309": "E",
+        "id": "Komagataella_pastoris@Seq_1175",
+        "index": "52_1174",
+        "ortholog": "OG3613"
+    },
+    {
+        "PAS_chr3_0462": "E",
+        "id": "Komagataella_pastoris@Seq_1120",
+        "index": "52_1119",
+        "ortholog": "OG1586"
+    },
+    {
+        "PAS_chr3_0707": "E",
+        "id": "Komagataella_pastoris@Seq_3764",
+        "index": "52_3763",
+        "ortholog": "OG3189"
+    },
+    {
+        "PAS_chr2-2_0387": "E",
+        "id": "Komagataella_pastoris@Seq_139",
+        "index": "52_138",
+        "ortholog": "OG2018"
+    },
+    {
+        "PAS_chr1-4_0304": "E",
+        "id": "Komagataella_pastoris@Seq_1569",
+        "index": "52_1568",
+        "ortholog": "OG1897"
+    },
+    {
+        "PAS_chr1-4_0429": "E",
+        "id": "Komagataella_pastoris@Seq_1735",
+        "index": "52_1734",
+        "ortholog": "OG3676"
+    },
+    {
+        "PAS_chr4_0393": "E",
+        "id": "Komagataella_pastoris@Seq_806",
+        "index": "52_805",
+        "ortholog": "OG1501"
+    },
+    {
+        "PAS_chr1-4_0295": "E",
+        "id": "Komagataella_pastoris@Seq_2578",
+        "index": "52_2577",
+        "ortholog": "OG1316"
+    },
+    {
+        "PAS_chr1-4_0324": "E",
+        "id": "Komagataella_pastoris@Seq_1296",
+        "index": "52_1295",
+        "ortholog": "OG1568"
+    },
+    {
+        "PAS_chr1-3_0244": "E",
+        "id": "Komagataella_pastoris@Seq_684",
+        "index": "52_683",
+        "ortholog": "OG1983"
+    },
+    {
+        "PAS_chr4_0785": "E",
+        "id": "Komagataella_pastoris@Seq_2186",
+        "index": "52_2185",
+        "ortholog": "OG1537"
+    },
+    {
+        "PAS_chr4_0826": "E",
+        "id": "Komagataella_pastoris@Seq_495",
+        "index": "52_494",
+        "ortholog": "OG2847"
+    },
+    {
+        "PAS_chr3_0765": "E",
+        "id": "Komagataella_pastoris@Seq_1869",
+        "index": "52_1868",
+        "ortholog": "OG1863"
+    },
+    {
+        "PAS_chr1-4_0292": "E",
+        "id": "Komagataella_pastoris@Seq_1640",
+        "index": "52_1639",
+        "ortholog": "OG1424"
+    },
+    {
+        "PAS_chr3_0951": "E",
+        "id": "Komagataella_pastoris@Seq_965",
+        "index": "52_964",
+        "ortholog": "OG2197"
+    },
+    {
+        "PAS_chr1-4_0149": "E",
+        "id": "Komagataella_pastoris@Seq_1012",
+        "index": "52_1011",
+        "ortholog": "OG3313"
+    },
+    {
+        "PAS_chr3_0733": "E",
+        "id": "Komagataella_pastoris@Seq_1947",
+        "index": "52_1946",
+        "ortholog": "OG1683"
+    },
+    {
+        "PAS_FragB_0040": "E",
+        "id": "Komagataella_pastoris@Seq_379",
+        "index": "52_378",
+        "ortholog": "OG2382"
+    },
+    {
+        "PAS_chr3_0456": "E",
+        "id": "Komagataella_pastoris@Seq_2027",
+        "index": "52_2026",
+        "ortholog": "OG2038"
+    },
+    {
+        "PAS_chr1-1_0324": "E",
+        "id": "Komagataella_pastoris@Seq_808",
+        "index": "52_807",
+        "ortholog": "OG2190"
+    },
+    {
+        "PAS_chr2-2_0204": "E",
+        "id": "Komagataella_pastoris@Seq_2520",
+        "index": "52_2519",
+        "ortholog": "OG1491"
+    },
+    {
+        "PAS_chr2-1_0871": "E",
+        "id": "Komagataella_pastoris@Seq_3906",
+        "index": "52_3905",
+        "ortholog": "OG3008"
+    },
+    {
+        "PAS_chr1-1_0062": "E",
+        "id": "Komagataella_pastoris@Seq_3025",
+        "index": "52_3024",
+        "ortholog": "OG2592"
+    },
+    {
+        "PAS_chr2-2_0302": "E",
+        "id": "Komagataella_pastoris@Seq_1560",
+        "index": "52_1559",
+        "ortholog": "OG2380"
+    },
+    {
+        "PAS_chr1-1_0457": "E",
+        "id": "Komagataella_pastoris@Seq_833",
+        "index": "52_832",
+        "ortholog": "OG1611"
+    },
+    {
+        "PAS_chr2-1_0769": "E",
+        "id": "Komagataella_pastoris@Seq_2809",
+        "index": "52_2808",
+        "ortholog": "OG1299"
+    },
+    {
+        "PAS_chr1-3_0028": "E",
+        "id": "Komagataella_pastoris@Seq_2141",
+        "index": "52_2140",
+        "ortholog": "OG2522"
+    },
+    {
+        "PAS_chr2-2_0094": "E",
+        "id": "Komagataella_pastoris@Seq_2929",
+        "index": "52_2928",
+        "ortholog": "OG1012"
+    },
+    {
+        "PAS_chr2-1_0759": "E",
+        "id": "Komagataella_pastoris@Seq_2719",
+        "index": "52_2718",
+        "ortholog": "OG1673"
+    },
+    {
+        "PAS_chr2-1_0727": "E",
+        "id": "Komagataella_pastoris@Seq_2926",
+        "index": "52_2925",
+        "ortholog": "OG2265"
+    },
+    {
+        "PAS_chr3_0870": "E",
+        "id": "Komagataella_pastoris@Seq_659",
+        "index": "52_658",
+        "ortholog": "OG1446"
+    },
+    {
+        "PAS_chr3_0569": "E",
+        "id": "Komagataella_pastoris@Seq_197",
+        "index": "52_196",
+        "ortholog": "OG1518"
+    },
+    {
+        "PAS_chr3_0943": "E",
+        "id": "Komagataella_pastoris@Seq_2236",
+        "index": "52_2235",
+        "ortholog": "OG2537"
+    },
+    {
+        "PAS_chr2-1_0716": "E",
+        "id": "Komagataella_pastoris@Seq_2003",
+        "index": "52_2002",
+        "ortholog": "OG1899"
+    },
+    {
+        "PAS_chr4_0996": "E",
+        "id": "Komagataella_pastoris@Seq_2531",
+        "index": "52_2530",
+        "ortholog": "OG2830"
+    },
+    {
+        "PAS_chr1-1_0067": "E",
+        "id": "Komagataella_pastoris@Seq_784",
+        "index": "52_783",
+        "ortholog": "OG3115"
+    },
+    {
+        "PAS_chr4_0060": "E",
+        "id": "Komagataella_pastoris@Seq_1330",
+        "index": "52_1329",
+        "ortholog": "OG2845"
+    },
+    {
+        "PAS_chr1-1_0002": "E",
+        "id": "Komagataella_pastoris@Seq_2308",
+        "index": "52_2307",
+        "ortholog": "OG1171"
+    },
+    {
+        "PAS_chr1-4_0685": "E",
+        "id": "Komagataella_pastoris@Seq_1932",
+        "index": "52_1931",
+        "ortholog": "OG2205"
+    },
+    {
+        "PAS_chr4_0418": "E",
+        "id": "Komagataella_pastoris@Seq_3120",
+        "index": "52_3119",
+        "ortholog": "OG1767"
+    },
+    {
+        "PAS_chr1-4_0448": "E",
+        "id": "Komagataella_pastoris@Seq_1870",
+        "index": "52_1869",
+        "ortholog": "OG2913"
+    },
+    {
+        "PAS_chr2-1_0072": "E",
+        "id": "Komagataella_pastoris@Seq_1660",
+        "index": "52_1659",
+        "ortholog": "OG1470"
+    },
+    {
+        "PAS_c121_0002": "E",
+        "id": "Komagataella_pastoris@Seq_1203",
+        "index": "52_1202",
+        "ortholog": "OG2999"
+    },
+    {
+        "PAS_chr2-2_0278": "E",
+        "id": "Komagataella_pastoris@Seq_3795",
+        "index": "52_3794",
+        "ortholog": "OG3961"
+    },
+    {
+        "PAS_chr3_0957": "E",
+        "id": "Komagataella_pastoris@Seq_2251",
+        "index": "52_2250",
+        "ortholog": "OG1355"
+    },
+    {
+        "PAS_chr4_0233": "E",
+        "id": "Komagataella_pastoris@Seq_793",
+        "index": "52_792",
+        "ortholog": "OG1857"
+    },
+    {
+        "PAS_chr4_0197": "E",
+        "id": "Komagataella_pastoris@Seq_4796",
+        "index": "52_4795",
+        "ortholog": "OG1487"
+    },
+    {
+        "PAS_chr2-1_0626": "E",
+        "id": "Komagataella_pastoris@Seq_2533",
+        "index": "52_2532",
+        "ortholog": "OG1357"
+    },
+    {
+        "PAS_chr2-1_0557": "E",
+        "id": "Komagataella_pastoris@Seq_992",
+        "index": "52_991",
+        "ortholog": "OG1035"
+    },
+    {
+        "PAS_chr3_0403": "E",
+        "id": "Komagataella_pastoris@Seq_1803",
+        "index": "52_1802",
+        "ortholog": "OG1055"
+    },
+    {
+        "PAS_chr3_1025": "E",
+        "id": "Komagataella_pastoris@Seq_2264",
+        "index": "52_2263",
+        "ortholog": "OG2762"
+    },
+    {
+        "PAS_chr1-4_0015": "E",
+        "id": "Komagataella_pastoris@Seq_1875",
+        "index": "52_1874",
+        "ortholog": "OG1965"
+    },
+    {
+        "PAS_chr4_0213": "E",
+        "id": "Komagataella_pastoris@Seq_1520",
+        "index": "52_1519",
+        "ortholog": "OG1764"
+    },
+    {
+        "PAS_chr2-2_0346": "E",
+        "id": "Komagataella_pastoris@Seq_3090",
+        "index": "52_3089",
+        "ortholog": "OG2541"
+    },
+    {
+        "PAS_chr3_0052": "E",
+        "id": "Komagataella_pastoris@Seq_4545",
+        "index": "52_4544",
+        "ortholog": "OG3114"
+    },
+    {
+        "PAS_chr3_0264": "E",
+        "id": "Komagataella_pastoris@Seq_2903",
+        "index": "52_2902",
+        "ortholog": "OG2960"
+    },
+    {
+        "PAS_chr2-1_0533": "E",
+        "id": "Komagataella_pastoris@Seq_3999",
+        "index": "52_3998",
+        "ortholog": "OG3856"
+    },
+    {
+        "PAS_chr1-1_0459": "E",
+        "id": "Komagataella_pastoris@Seq_3463",
+        "index": "52_3462",
+        "ortholog": "OG3902"
+    },
+    {
+        "PAS_chr1-3_0240": "E",
+        "id": "Komagataella_pastoris@Seq_4294",
+        "index": "52_4293",
+        "ortholog": "OG3074"
+    },
+    {
+        "PAS_chr4_0081": "E",
+        "id": "Komagataella_pastoris@Seq_1649",
+        "index": "52_1648",
+        "ortholog": "OG2369"
+    },
+    {
+        "PAS_chr3_0167": "E",
+        "id": "Komagataella_pastoris@Seq_3227",
+        "index": "52_3226",
+        "ortholog": "OG2061"
+    },
+    {
+        "PAS_chr1-3_0239": "E",
+        "id": "Komagataella_pastoris@Seq_86",
+        "index": "52_85",
+        "ortholog": "OG1394"
+    },
+    {
+        "PAS_chr1-1_0072": "E",
+        "id": "Komagataella_pastoris@Seq_305",
+        "index": "52_304",
+        "ortholog": "OG1432"
+    },
+    {
+        "PAS_chr3_0262": "E",
+        "id": "Komagataella_pastoris@Seq_4188",
+        "index": "52_4187",
+        "ortholog": "OG2654"
+    },
+    {
+        "PAS_chr4_0477": "E",
+        "id": "Komagataella_pastoris@Seq_4039",
+        "index": "52_4038",
+        "ortholog": "OG2578"
+    },
+    {
+        "PAS_chr4_0356": "E",
+        "id": "Komagataella_pastoris@Seq_1158",
+        "index": "52_1157",
+        "ortholog": "OG1367"
+    },
+    {
+        "PAS_chr3_0770": "NE",
+        "id": "Komagataella_pastoris@Seq_3620",
+        "index": "52_3619",
+        "ortholog": "OG1825"
+    },
+    {
+        "PAS_chr1-1_0430": "NE",
+        "id": "Komagataella_pastoris@Seq_4506",
+        "index": "52_4505",
+        "ortholog": "OG1819"
+    },
+    {
+        "PAS_chr4_0994": "NE",
+        "id": "Komagataella_pastoris@Seq_163",
+        "index": "52_162",
+        "ortholog": "OG1500"
+    },
+    {
+        "PAS_chr1-4_0153": "NE",
+        "id": "Komagataella_pastoris@Seq_953",
+        "index": "52_952",
+        "ortholog": "OG1714"
+    },
+    {
+        "PAS_c131_0017": "NE",
+        "id": "Komagataella_pastoris@Seq_4411",
+        "index": "52_4410",
+        "ortholog": "OG1753"
+    },
+    {
+        "PAS_chr4_0368": "NE",
+        "id": "Komagataella_pastoris@Seq_531",
+        "index": "52_530",
+        "ortholog": "OG4959"
+    },
+    {
+        "PAS_chr2-2_0317": "NE",
+        "id": "Komagataella_pastoris@Seq_1636",
+        "index": "52_1635",
+        "ortholog": "OG2218"
+    },
+    {
+        "PAS_chr4_0703": "NE",
+        "id": "Komagataella_pastoris@Seq_205",
+        "index": "52_204",
+        "ortholog": "OG2357"
+    },
+    {
+        "PAS_chr3_0177": "NE",
+        "id": "Komagataella_pastoris@Seq_1241",
+        "index": "52_1240",
+        "ortholog": "OG2422"
+    },
+    {
+        "PAS_chr3_0489": "NE",
+        "id": "Komagataella_pastoris@Seq_2404",
+        "index": "52_2403",
+        "ortholog": "OG1341"
+    },
+    {
+        "PAS_chr1-4_0160": "NE",
+        "id": "Komagataella_pastoris@Seq_3724",
+        "index": "52_3723",
+        "ortholog": "OG2113"
+    },
+    {
+        "PAS_chr2-1_0269": "NE",
+        "id": "Komagataella_pastoris@Seq_497",
+        "index": "52_496",
+        "ortholog": "OG1603"
+    },
+    {
+        "PAS_chr3_0570": "NE",
+        "id": "Komagataella_pastoris@Seq_4081",
+        "index": "52_4080",
+        "ortholog": "OG3681"
+    },
+    {
+        "PAS_chr4_0816": "NE",
+        "id": "Komagataella_pastoris@Seq_3158",
+        "index": "52_3157",
+        "ortholog": "OG1337"
+    },
+    {
+        "PAS_chr3_0735": "NE",
+        "id": "Komagataella_pastoris@Seq_3233",
+        "index": "52_3232",
+        "ortholog": "OG4624"
+    },
+    {
+        "PAS_chr1-3_0054": "NE",
+        "id": "Komagataella_pastoris@Seq_2648",
+        "index": "52_2647",
+        "ortholog": "OG1634"
+    },
+    {
+        "PAS_chr2-1_0100": "NE",
+        "id": "Komagataella_pastoris@Seq_368",
+        "index": "52_367",
+        "ortholog": "OG2814"
+    },
+    {
+        "PAS_chr3_0471": "NE",
+        "id": "Komagataella_pastoris@Seq_3072",
+        "index": "52_3071",
+        "ortholog": "OG1883"
+    },
+    {
+        "PAS_chr3_0257": "NE",
+        "id": "Komagataella_pastoris@Seq_2619",
+        "index": "52_2618",
+        "ortholog": "OG2740"
+    },
+    {
+        "PAS_chr4_0795": "NE",
+        "id": "Komagataella_pastoris@Seq_2259",
+        "index": "52_2258",
+        "ortholog": "OG1111"
+    },
+    {
+        "PAS_chr3_0425": "NE",
+        "id": "Komagataella_pastoris@Seq_1905",
+        "index": "52_1904",
+        "ortholog": "OG1615"
+    },
+    {
+        "PAS_chr4_0294": "NE",
+        "id": "Komagataella_pastoris@Seq_95",
+        "index": "52_94",
+        "ortholog": "OG3065"
+    },
+    {
+        "PAS_chr2-1_0121": "NE",
+        "id": "Komagataella_pastoris@Seq_53",
+        "index": "52_52",
+        "ortholog": "OG3043"
+    },
+    {
+        "PAS_chr4_0150": "NE",
+        "id": "Komagataella_pastoris@Seq_3079",
+        "index": "52_3078",
+        "ortholog": "OG1665"
+    },
+    {
+        "PAS_chr1-4_0234": "NE",
+        "id": "Komagataella_pastoris@Seq_1430",
+        "index": "52_1429",
+        "ortholog": "OG3837"
+    },
+    {
+        "PAS_chr2-1_0158": "NE",
+        "id": "Komagataella_pastoris@Seq_745",
+        "index": "52_744",
+        "ortholog": "OG2028"
+    },
+    {
+        "PAS_chr2-1_0160": "NE",
+        "id": "Komagataella_pastoris@Seq_3528",
+        "index": "52_3527",
+        "ortholog": "OG1813"
+    },
+    {
+        "PAS_chr1-1_0397": "NE",
+        "id": "Komagataella_pastoris@Seq_1909",
+        "index": "52_1908",
+        "ortholog": "OG3018"
+    },
+    {
+        "PAS_chr2-1_0368": "NE",
+        "id": "Komagataella_pastoris@Seq_1150",
+        "index": "52_1149",
+        "ortholog": "OG1422"
+    },
+    {
+        "PAS_chr4_0063": "NE",
+        "id": "Komagataella_pastoris@Seq_2233",
+        "index": "52_2232",
+        "ortholog": "OG1434"
+    },
+    {
+        "PAS_chr1-4_0359": "NE",
+        "id": "Komagataella_pastoris@Seq_1737",
+        "index": "52_1736",
+        "ortholog": "OG3317"
+    },
+    {
+        "PAS_chr2-1_0637": "NE",
+        "id": "Komagataella_pastoris@Seq_1768",
+        "index": "52_1767",
+        "ortholog": "OG2082"
+    },
+    {
+        "PAS_chr1-4_0608": "NE",
+        "id": "Komagataella_pastoris@Seq_839",
+        "index": "52_838",
+        "ortholog": "OG1377"
+    },
+    {
+        "PAS_chr1-4_0538": "NE",
+        "id": "Komagataella_pastoris@Seq_1255",
+        "index": "52_1254",
+        "ortholog": "OG1122"
+    },
+    {
+        "PAS_chr3_0675": "NE",
+        "id": "Komagataella_pastoris@Seq_4103",
+        "index": "52_4102",
+        "ortholog": "OG1675"
+    },
+    {
+        "PAS_chr3_0899": "NE",
+        "id": "Komagataella_pastoris@Seq_4492",
+        "index": "52_4491",
+        "ortholog": "OG3120"
+    },
+    {
+        "PAS_chr4_0806": "NE",
+        "id": "Komagataella_pastoris@Seq_1643",
+        "index": "52_1642",
+        "ortholog": "OG1389"
+    },
+    {
+        "PAS_chr1-4_0572": "NE",
+        "id": "Komagataella_pastoris@Seq_972",
+        "index": "52_971",
+        "ortholog": "OG2438"
+    },
+    {
+        "PAS_chr3_0277": "NE",
+        "id": "Komagataella_pastoris@Seq_3804",
+        "index": "52_3803",
+        "ortholog": "OG1488"
+    },
+    {
+        "PAS_chr4_0248": "NE",
+        "id": "Komagataella_pastoris@Seq_238",
+        "index": "52_237",
+        "ortholog": "OG1210"
+    },
+    {
+        "PAS_chr4_0343": "NE",
+        "id": "Komagataella_pastoris@Seq_62",
+        "index": "52_61",
+        "ortholog": "OG1933"
+    },
+    {
+        "PAS_chr2-1_0684": "NE",
+        "id": "Komagataella_pastoris@Seq_3527",
+        "index": "52_3526",
+        "ortholog": "OG2238"
+    },
+    {
+        "PAS_chr1-1_0447": "NE",
+        "id": "Komagataella_pastoris@Seq_558",
+        "index": "52_557",
+        "ortholog": "OG1451"
+    },
+    {
+        "PAS_chr3_0623": "NE",
+        "id": "Komagataella_pastoris@Seq_2462",
+        "index": "52_2461",
+        "ortholog": "OG1617"
+    },
+    {
+        "PAS_chr2-2_0104": "NE",
+        "id": "Komagataella_pastoris@Seq_1627",
+        "index": "52_1626",
+        "ortholog": "OG3080"
+    },
+    {
+        "PAS_chr2-2_0113": "NE",
+        "id": "Komagataella_pastoris@Seq_933",
+        "index": "52_932",
+        "ortholog": "OG3214"
+    },
+    {
+        "PAS_chr3_0659": "NE",
+        "id": "Komagataella_pastoris@Seq_3696",
+        "index": "52_3695",
+        "ortholog": "OG1039"
+    },
+    {
+        "PAS_chr2-1_0554": "NE",
+        "id": "Komagataella_pastoris@Seq_2500",
+        "index": "52_2499",
+        "ortholog": "OG3160"
+    },
+    {
+        "PAS_chr3_0859": "NE",
+        "id": "Komagataella_pastoris@Seq_2660",
+        "index": "52_2659",
+        "ortholog": "OG2645"
+    },
+    {
+        "PAS_chr1-4_0049": "NE",
+        "id": "Komagataella_pastoris@Seq_668",
+        "index": "52_667",
+        "ortholog": "OG1810"
+    },
+    {
+        "PAS_chr3_0667": "NE",
+        "id": "Komagataella_pastoris@Seq_1702",
+        "index": "52_1701",
+        "ortholog": "OG2837"
+    },
+    {
+        "PAS_chr2-2_0059": "NE",
+        "id": "Komagataella_pastoris@Seq_1119",
+        "index": "52_1118",
+        "ortholog": "OG3063"
+    },
+    {
+        "PAS_chr3_0962": "NE",
+        "id": "Komagataella_pastoris@Seq_1479",
+        "index": "52_1478",
+        "ortholog": "OG3108"
+    },
+    {
+        "PAS_chr2-1_0466": "NE",
+        "id": "Komagataella_pastoris@Seq_4357",
+        "index": "52_4356",
+        "ortholog": "OG1281"
+    },
+    {
+        "PAS_chr1-4_0367": "NE",
+        "id": "Komagataella_pastoris@Seq_4740",
+        "index": "52_4739",
+        "ortholog": "OG2465"
+    },
+    {
+        "PAS_chr2-1_0580": "NE",
+        "id": "Komagataella_pastoris@Seq_3882",
+        "index": "52_3881",
+        "ortholog": "OG1056"
+    },
+    {
+        "PAS_chr1-3_0104": "NE",
+        "id": "Komagataella_pastoris@Seq_3008",
+        "index": "52_3007",
+        "ortholog": "OG1039"
+    },
+    {
+        "PAS_chr3_0371": "NE",
+        "id": "Komagataella_pastoris@Seq_174",
+        "index": "52_173",
+        "ortholog": "OG1730"
+    },
+    {
+        "PAS_chr2-2_0230": "NE",
+        "id": "Komagataella_pastoris@Seq_4036",
+        "index": "52_4035",
+        "ortholog": "OG1360"
+    },
+    {
+        "PAS_chr3_0507": "NE",
+        "id": "Komagataella_pastoris@Seq_2743",
+        "index": "52_2742",
+        "ortholog": "OG1596"
+    },
+    {
+        "PAS_chr2-1_0660": "NE",
+        "id": "Komagataella_pastoris@Seq_2185",
+        "index": "52_2184",
+        "ortholog": "OG1322"
+    },
+    {
+        "PAS_chr4_0198": "NE",
+        "id": "Komagataella_pastoris@Seq_1456",
+        "index": "52_1455",
+        "ortholog": "OG2353"
+    },
+    {
+        "PAS_chr1-3_0191": "NE",
+        "id": "Komagataella_pastoris@Seq_3781",
+        "index": "52_3780",
+        "ortholog": "OG1779"
+    },
+    {
+        "PAS_chr2-1_0739": "NE",
+        "id": "Komagataella_pastoris@Seq_4362",
+        "index": "52_4361",
+        "ortholog": "OG1314"
+    },
+    {
+        "PAS_chr3_0535": "NE",
+        "id": "Komagataella_pastoris@Seq_1108",
+        "index": "52_1107",
+        "ortholog": "OG1758"
+    },
+    {
+        "PAS_chr2-1_0415": "NE",
+        "id": "Komagataella_pastoris@Seq_2065",
+        "index": "52_2064",
+        "ortholog": "OG1115"
+    },
+    {
+        "PAS_chr2-1_0308": "NE",
+        "id": "Komagataella_pastoris@Seq_4321",
+        "index": "52_4320",
+        "ortholog": "OG1333"
+    },
+    {
+        "PAS_chr3_0651": "NE",
+        "id": "Komagataella_pastoris@Seq_2331",
+        "index": "52_2330",
+        "ortholog": "OG2030"
+    },
+    {
+        "PAS_chr1-1_0411": "NE",
+        "id": "Komagataella_pastoris@Seq_4658",
+        "index": "52_4657",
+        "ortholog": "OG2098"
+    },
+    {
+        "PAS_chr4_0437": "NE",
+        "id": "Komagataella_pastoris@Seq_3658",
+        "index": "52_3657",
+        "ortholog": "OG3413"
+    },
+    {
+        "PAS_chr1-1_0475": "NE",
+        "id": "Komagataella_pastoris@Seq_1090",
+        "index": "52_1089",
+        "ortholog": "OG1416"
+    },
+    {
+        "PAS_chr3_0528": "NE",
+        "id": "Komagataella_pastoris@Seq_1369",
+        "index": "52_1368",
+        "ortholog": "OG1935"
+    },
+    {
+        "PAS_chr3_0216": "NE",
+        "id": "Komagataella_pastoris@Seq_3646",
+        "index": "52_3645",
+        "ortholog": "OG1943"
+    },
+    {
+        "PAS_chr4_0229": "NE",
+        "id": "Komagataella_pastoris@Seq_1729",
+        "index": "52_1728",
+        "ortholog": "OG1295"
+    },
+    {
+        "PAS_chr1-4_0697": "NE",
+        "id": "Komagataella_pastoris@Seq_4165",
+        "index": "52_4164",
+        "ortholog": "OG2737"
+    },
+    {
+        "PAS_chr3_0703": "NE",
+        "id": "Komagataella_pastoris@Seq_3098",
+        "index": "52_3097",
+        "ortholog": "OG1982"
+    },
+    {
+        "PAS_chr1-3_0218": "NE",
+        "id": "Komagataella_pastoris@Seq_854",
+        "index": "52_853",
+        "ortholog": "OG1502"
+    },
+    {
+        "PAS_chr2-2_0252": "NE",
+        "id": "Komagataella_pastoris@Seq_3664",
+        "index": "52_3663",
+        "ortholog": "OG1306"
+    },
+    {
+        "PAS_chr3_0040": "NE",
+        "id": "Komagataella_pastoris@Seq_1611",
+        "index": "52_1610",
+        "ortholog": "OG1510"
+    },
+    {
+        "PAS_chr2-1_0697": "NE",
+        "id": "Komagataella_pastoris@Seq_3026",
+        "index": "52_3025",
+        "ortholog": "OG1964"
+    },
+    {
+        "PAS_chr3_0647": "NE",
+        "id": "Komagataella_pastoris@Seq_1815",
+        "index": "52_1814",
+        "ortholog": "OG1218"
+    },
+    {
+        "PAS_chr4_0050": "NE",
+        "id": "Komagataella_pastoris@Seq_867",
+        "index": "52_866",
+        "ortholog": "OG2906"
+    },
+    {
+        "PAS_chr1-4_0150": "NE",
+        "id": "Komagataella_pastoris@Seq_846",
+        "index": "52_845",
+        "ortholog": "OG1112"
+    },
+    {
+        "PAS_chr2-2_0434": "NE",
+        "id": "Komagataella_pastoris@Seq_386",
+        "index": "52_385",
+        "ortholog": "OG2273"
+    },
+    {
+        "PAS_chr1-4_0450": "NE",
+        "id": "Komagataella_pastoris@Seq_2091",
+        "index": "52_2090",
+        "ortholog": "OG2453"
+    },
+    {
+        "PAS_chr1-4_0551": "NE",
+        "id": "Komagataella_pastoris@Seq_1972",
+        "index": "52_1971",
+        "ortholog": "OG1774"
+    },
+    {
+        "PAS_chr3_0085": "NE",
+        "id": "Komagataella_pastoris@Seq_67",
+        "index": "52_66",
+        "ortholog": "OG2053"
+    },
+    {
+        "PAS_chr3_0039": "NE",
+        "id": "Komagataella_pastoris@Seq_3492",
+        "index": "52_3491",
+        "ortholog": "OG2930"
+    },
+    {
+        "PAS_chr3_0876": "NE",
+        "id": "Komagataella_pastoris@Seq_2613",
+        "index": "52_2612",
+        "ortholog": "OG1516"
+    },
+    {
+        "PAS_chr1-1_0420": "NE",
+        "id": "Komagataella_pastoris@Seq_644",
+        "index": "52_643",
+        "ortholog": "OG2956"
+    },
+    {
+        "PAS_chr2-2_0168": "NE",
+        "id": "Komagataella_pastoris@Seq_3217",
+        "index": "52_3216",
+        "ortholog": "OG2746"
+    },
+    {
+        "PAS_chr4_0578": "NE",
+        "id": "Komagataella_pastoris@Seq_4122",
+        "index": "52_4121",
+        "ortholog": "OG1507"
+    },
+    {
+        "PAS_chr4_0613": "NE",
+        "id": "Komagataella_pastoris@Seq_2941",
+        "index": "52_2940",
+        "ortholog": "OG2086"
+    },
+    {
+        "PAS_chr2-1_0437": "NE",
+        "id": "Komagataella_pastoris@Seq_1327",
+        "index": "52_1326",
+        "ortholog": "OG1145"
+    },
+    {
+        "PAS_chr2-1_0657": "NE",
+        "id": "Komagataella_pastoris@Seq_132",
+        "index": "52_131",
+        "ortholog": "OG1433"
+    },
+    {
+        "PAS_chr4_0285": "NE",
+        "id": "Komagataella_pastoris@Seq_2642",
+        "index": "52_2641",
+        "ortholog": "OG3443"
+    },
+    {
+        "PAS_chr3_0566": "NE",
+        "id": "Komagataella_pastoris@Seq_4415",
+        "index": "52_4414",
+        "ortholog": "OG4581"
+    },
+    {
+        "PAS_chr2-1_0402": "NE",
+        "id": "Komagataella_pastoris@Seq_1130",
+        "index": "52_1129",
+        "ortholog": "OG1054"
+    },
+    {
+        "PAS_chr1-4_0047": "NE",
+        "id": "Komagataella_pastoris@Seq_3575",
+        "index": "52_3574",
+        "ortholog": "OG1054"
+    },
+    {
+        "PAS_chr2-2_0024": "NE",
+        "id": "Komagataella_pastoris@Seq_4276",
+        "index": "52_4275",
+        "ortholog": "OG1313"
+    },
+    {
+        "PAS_chr4_0112": "NE",
+        "id": "Komagataella_pastoris@Seq_3431",
+        "index": "52_3430",
+        "ortholog": "OG1129"
+    },
+    {
+        "PAS_chr3_0434": "NE",
+        "id": "Komagataella_pastoris@Seq_1577",
+        "index": "52_1576",
+        "ortholog": "OG2835"
+    },
+    {
+        "PAS_chr4_0587": "NE",
+        "id": "Komagataella_pastoris@Seq_3848",
+        "index": "52_3847",
+        "ortholog": "OG1030"
+    },
+    {
+        "PAS_chr2-2_0492": "NE",
+        "id": "Komagataella_pastoris@Seq_3586",
+        "index": "52_3585",
+        "ortholog": "OG1688"
+    },
+    {
+        "PAS_FragB_0053": "NE",
+        "id": "Komagataella_pastoris@Seq_38",
+        "index": "52_37",
+        "ortholog": "OG2227"
+    },
+    {
+        "PAS_chr2-2_0048": "NE",
+        "id": "Komagataella_pastoris@Seq_3426",
+        "index": "52_3425",
+        "ortholog": "OG1629"
+    },
+    {
+        "PAS_chr4_0415": "NE",
+        "id": "Komagataella_pastoris@Seq_284",
+        "index": "52_283",
+        "ortholog": "OG1030"
+    },
+    {
+        "PAS_chr3_0294": "NE",
+        "id": "Komagataella_pastoris@Seq_3306",
+        "index": "52_3305",
+        "ortholog": "OG1744"
+    },
+    {
+        "PAS_chr4_0665": "NE",
+        "id": "Komagataella_pastoris@Seq_720",
+        "index": "52_719",
+        "ortholog": "OG2752"
+    },
+    {
+        "PAS_chr2-2_0063": "NE",
+        "id": "Komagataella_pastoris@Seq_2148",
+        "index": "52_2147",
+        "ortholog": "OG2808"
+    },
+    {
+        "PAS_chr3_0410": "NE",
+        "id": "Komagataella_pastoris@Seq_3600",
+        "index": "52_3599",
+        "ortholog": "OG1685"
+    },
+    {
+        "PAS_chr1-3_0220": "NE",
+        "id": "Komagataella_pastoris@Seq_261",
+        "index": "52_260",
+        "ortholog": "OG2074"
+    },
+    {
+        "PAS_chr2-2_0359": "NE",
+        "id": "Komagataella_pastoris@Seq_4597",
+        "index": "52_4596",
+        "ortholog": "OG2924"
+    },
+    {
+        "PAS_chr2-2_0137": "NE",
+        "id": "Komagataella_pastoris@Seq_1188",
+        "index": "52_1187",
+        "ortholog": "OG4016"
+    },
+    {
+        "PAS_chr4_0173": "NE",
+        "id": "Komagataella_pastoris@Seq_3262",
+        "index": "52_3261",
+        "ortholog": "OG1168"
+    },
+    {
+        "PAS_chr1-4_0083": "NE",
+        "id": "Komagataella_pastoris@Seq_1447",
+        "index": "52_1446",
+        "ortholog": "OG3677"
+    },
+    {
+        "PAS_chr1-1_0427": "NE",
+        "id": "Komagataella_pastoris@Seq_1880",
+        "index": "52_1879",
+        "ortholog": "OG3449"
+    },
+    {
+        "PAS_chr3_0399": "NE",
+        "id": "Komagataella_pastoris@Seq_3671",
+        "index": "52_3670",
+        "ortholog": "OG1318"
+    },
+    {
+        "PAS_chr3_1011": "NE",
+        "id": "Komagataella_pastoris@Seq_1071",
+        "index": "52_1070",
+        "ortholog": "OG1684"
+    },
+    {
+        "PAS_chr2-2_0267": "NE",
+        "id": "Komagataella_pastoris@Seq_3962",
+        "index": "52_3961",
+        "ortholog": "OG1364"
+    },
+    {
+        "PAS_chr2-1_0776": "NE",
+        "id": "Komagataella_pastoris@Seq_129",
+        "index": "52_128",
+        "ortholog": "OG1869"
+    },
+    {
+        "PAS_chr2-1_0472": "NE",
+        "id": "Komagataella_pastoris@Seq_1325",
+        "index": "52_1324",
+        "ortholog": "OG1016"
+    },
+    {
+        "PAS_chr1-4_0198": "NE",
+        "id": "Komagataella_pastoris@Seq_1237",
+        "index": "52_1236",
+        "ortholog": "OG1004"
+    },
+    {
+        "PAS_chr4_0311": "NE",
+        "id": "Komagataella_pastoris@Seq_2321",
+        "index": "52_2320",
+        "ortholog": "OG3024"
+    },
+    {
+        "PAS_chr2-1_0202": "NE",
+        "id": "Komagataella_pastoris@Seq_293",
+        "index": "52_292",
+        "ortholog": "OG2912"
+    },
+    {
+        "PAS_chr4_0866": "NE",
+        "id": "Komagataella_pastoris@Seq_1968",
+        "index": "52_1967",
+        "ortholog": "OG2734"
+    },
+    {
+        "PAS_chr2-2_0131": "NE",
+        "id": "Komagataella_pastoris@Seq_1239",
+        "index": "52_1238",
+        "ortholog": "OG4375"
+    },
+    {
+        "PAS_chr2-2_0084": "NE",
+        "id": "Komagataella_pastoris@Seq_4072",
+        "index": "52_4071",
+        "ortholog": "OG2979"
+    },
+    {
+        "PAS_chr1-4_0009": "NE",
+        "id": "Komagataella_pastoris@Seq_3060",
+        "index": "52_3059",
+        "ortholog": "OG4008"
+    },
+    {
+        "PAS_chr4_0940": "NE",
+        "id": "Komagataella_pastoris@Seq_3631",
+        "index": "52_3630",
+        "ortholog": "OG3394"
+    },
+    {
+        "PAS_chr2-2_0075": "NE",
+        "id": "Komagataella_pastoris@Seq_3448",
+        "index": "52_3447",
+        "ortholog": "OG2046"
+    },
+    {
+        "PAS_chr2-2_0408": "NE",
+        "id": "Komagataella_pastoris@Seq_4086",
+        "index": "52_4085",
+        "ortholog": "OG1931"
+    },
+    {
+        "PAS_chr3_0922": "NE",
+        "id": "Komagataella_pastoris@Seq_2038",
+        "index": "52_2037",
+        "ortholog": "OG1630"
+    },
+    {
+        "PAS_chr3_1021": "NE",
+        "id": "Komagataella_pastoris@Seq_433",
+        "index": "52_432",
+        "ortholog": "OG1019"
+    },
+    {
+        "PAS_chr3_0604": "NE",
+        "id": "Komagataella_pastoris@Seq_3744",
+        "index": "52_3743",
+        "ortholog": "OG2970"
+    },
+    {
+        "PAS_chr2-1_0047": "NE",
+        "id": "Komagataella_pastoris@Seq_1499",
+        "index": "52_1498",
+        "ortholog": "OG4004"
+    },
+    {
+        "PAS_chr3_0417": "NE",
+        "id": "Komagataella_pastoris@Seq_2123",
+        "index": "52_2122",
+        "ortholog": "OG3445"
+    },
+    {
+        "PAS_chr2-2_0496": "NE",
+        "id": "Komagataella_pastoris@Seq_43",
+        "index": "52_42",
+        "ortholog": "OG1595"
+    },
+    {
+        "PAS_chr1-4_0632": "NE",
+        "id": "Komagataella_pastoris@Seq_2357",
+        "index": "52_2356",
+        "ortholog": "OG1052"
+    },
+    {
+        "PAS_chr2-1_0520": "NE",
+        "id": "Komagataella_pastoris@Seq_4110",
+        "index": "52_4109",
+        "ortholog": "OG3568"
+    },
+    {
+        "PAS_chr1-1_0029": "NE",
+        "id": "Komagataella_pastoris@Seq_2854",
+        "index": "52_2853",
+        "ortholog": "OG4116"
+    },
+    {
+        "PAS_chr4_0018": "NE",
+        "id": "Komagataella_pastoris@Seq_1093",
+        "index": "52_1092",
+        "ortholog": "OG3790"
+    },
+    {
+        "PAS_chr2-2_0423": "NE",
+        "id": "Komagataella_pastoris@Seq_1234",
+        "index": "52_1233",
+        "ortholog": "OG1076"
+    },
+    {
+        "PAS_chr3_1028": "NE",
+        "id": "Komagataella_pastoris@Seq_2258",
+        "index": "52_2257",
+        "ortholog": "OG1521"
+    },
+    {
+        "PAS_chr1-4_0524": "NE",
+        "id": "Komagataella_pastoris@Seq_81",
+        "index": "52_80",
+        "ortholog": "OG1380"
+    },
+    {
+        "PAS_chr3_0887": "NE",
+        "id": "Komagataella_pastoris@Seq_1185",
+        "index": "52_1184",
+        "ortholog": "OG4398"
+    },
+    {
+        "PAS_chr3_0181": "NE",
+        "id": "Komagataella_pastoris@Seq_1253",
+        "index": "52_1252",
+        "ortholog": "OG1276"
+    },
+    {
+        "PAS_chr3_0482": "NE",
+        "id": "Komagataella_pastoris@Seq_2136",
+        "index": "52_2135",
+        "ortholog": "OG1264"
+    },
+    {
+        "PAS_chr1-1_0132": "NE",
+        "id": "Komagataella_pastoris@Seq_1663",
+        "index": "52_1662",
+        "ortholog": "OG3207"
+    },
+    {
+        "PAS_chr3_0868": "NE",
+        "id": "Komagataella_pastoris@Seq_16",
+        "index": "52_15",
+        "ortholog": "OG1815"
+    },
+    {
+        "PAS_chr2-2_0314": "NE",
+        "id": "Komagataella_pastoris@Seq_790",
+        "index": "52_789",
+        "ortholog": "OG1071"
+    },
+    {
+        "PAS_chr3_0305": "NE",
+        "id": "Komagataella_pastoris@Seq_1609",
+        "index": "52_1608",
+        "ortholog": "OG3617"
+    },
+    {
+        "PAS_chr1-4_0489": "NE",
+        "id": "Komagataella_pastoris@Seq_1163",
+        "index": "52_1162",
+        "ortholog": "OG3978"
+    },
+    {
+        "PAS_chr2-1_0257": "NE",
+        "id": "Komagataella_pastoris@Seq_553",
+        "index": "52_552",
+        "ortholog": "OG1053"
+    },
+    {
+        "PAS_FragB_0009": "NE",
+        "id": "Komagataella_pastoris@Seq_2805",
+        "index": "52_2804",
+        "ortholog": "OG3429"
+    },
+    {
+        "PAS_chr2-1_0767": "NE",
+        "id": "Komagataella_pastoris@Seq_3568",
+        "index": "52_3567",
+        "ortholog": "OG1055"
+    },
+    {
+        "PAS_chr1-1_0107": "NE",
+        "id": "Komagataella_pastoris@Seq_4025",
+        "index": "52_4024",
+        "ortholog": "OG1892"
+    },
+    {
+        "PAS_chr1-4_0074": "NE",
+        "id": "Komagataella_pastoris@Seq_686",
+        "index": "52_685",
+        "ortholog": "OG2637"
+    },
+    {
+        "PAS_chr3_0073": "NE",
+        "id": "Komagataella_pastoris@Seq_2817",
+        "index": "52_2816",
+        "ortholog": "OG1081"
+    },
+    {
+        "PAS_chr1-1_0436": "NE",
+        "id": "Komagataella_pastoris@Seq_259",
+        "index": "52_258",
+        "ortholog": "OG2588"
+    },
+    {
+        "PAS_chr4_0818": "NE",
+        "id": "Komagataella_pastoris@Seq_521",
+        "index": "52_520",
+        "ortholog": "OG2869"
+    },
+    {
+        "PAS_chr2-1_0065": "NE",
+        "id": "Komagataella_pastoris@Seq_211",
+        "index": "52_210",
+        "ortholog": "OG1230"
+    },
+    {
+        "PAS_chr1-4_0080": "NE",
+        "id": "Komagataella_pastoris@Seq_3755",
+        "index": "52_3754",
+        "ortholog": "OG2044"
+    },
+    {
+        "PAS_chr2-1_0103": "NE",
+        "id": "Komagataella_pastoris@Seq_2207",
+        "index": "52_2206",
+        "ortholog": "OG1116"
+    },
+    {
+        "PAS_chr3_1012": "NE",
+        "id": "Komagataella_pastoris@Seq_4088",
+        "index": "52_4087",
+        "ortholog": "OG2882"
+    },
+    {
+        "PAS_chr1-4_0222": "NE",
+        "id": "Komagataella_pastoris@Seq_1824",
+        "index": "52_1823",
+        "ortholog": "OG3001"
+    },
+    {
+        "PAS_chr2-1_0778": "NE",
+        "id": "Komagataella_pastoris@Seq_3821",
+        "index": "52_3820",
+        "ortholog": "OG1624"
+    },
+    {
+        "PAS_chr1-4_0218": "NE",
+        "id": "Komagataella_pastoris@Seq_4107",
+        "index": "52_4106",
+        "ortholog": "OG4665"
+    },
+    {
+        "PAS_chr2-1_0235": "NE",
+        "id": "Komagataella_pastoris@Seq_4252",
+        "index": "52_4251",
+        "ortholog": "OG4292"
+    },
+    {
+        "PAS_chr4_0624": "NE",
+        "id": "Komagataella_pastoris@Seq_3457",
+        "index": "52_3456",
+        "ortholog": "OG1329"
+    },
+    {
+        "PAS_chr1-1_0323": "NE",
+        "id": "Komagataella_pastoris@Seq_2378",
+        "index": "52_2377",
+        "ortholog": "OG1601"
+    },
+    {
+        "PAS_chr3_0602": "NE",
+        "id": "Komagataella_pastoris@Seq_2289",
+        "index": "52_2288",
+        "ortholog": "OG3021"
+    },
+    {
+        "PAS_chr1-1_0465": "NE",
+        "id": "Komagataella_pastoris@Seq_2512",
+        "index": "52_2511",
+        "ortholog": "OG1814"
+    },
+    {
+        "PAS_chr1-1_0373": "NE",
+        "id": "Komagataella_pastoris@Seq_1830",
+        "index": "52_1829",
+        "ortholog": "OG2519"
+    },
+    {
+        "PAS_chr1-3_0156": "NE",
+        "id": "Komagataella_pastoris@Seq_4552",
+        "index": "52_4551",
+        "ortholog": "OG1471"
+    },
+    {
+        "PAS_chr1-1_0233": "NE",
+        "id": "Komagataella_pastoris@Seq_2674",
+        "index": "52_2673",
+        "ortholog": "OG1056"
+    },
+    {
+        "PAS_chr1-1_0313": "NE",
+        "id": "Komagataella_pastoris@Seq_4442",
+        "index": "52_4441",
+        "ortholog": "OG1096"
+    },
+    {
+        "PAS_chr3_1024": "NE",
+        "id": "Komagataella_pastoris@Seq_2501",
+        "index": "52_2500",
+        "ortholog": "OG1589"
+    },
+    {
+        "PAS_chr2-1_0311": "NE",
+        "id": "Komagataella_pastoris@Seq_2177",
+        "index": "52_2176",
+        "ortholog": "OG1551"
+    },
+    {
+        "PAS_chr3_0936": "NE",
+        "id": "Komagataella_pastoris@Seq_341",
+        "index": "52_340",
+        "ortholog": "OG2032"
+    },
+    {
+        "PAS_chr3_0954": "NE",
+        "id": "Komagataella_pastoris@Seq_3662",
+        "index": "52_3661",
+        "ortholog": "OG2062"
+    },
+    {
+        "PAS_chr2-1_0794": "NE",
+        "id": "Komagataella_pastoris@Seq_4652",
+        "index": "52_4651",
+        "ortholog": "OG4418"
+    },
+    {
+        "PAS_chr2-1_0060": "NE",
+        "id": "Komagataella_pastoris@Seq_3160",
+        "index": "52_3159",
+        "ortholog": "OG1746"
+    },
+    {
+        "PAS_chr1-3_0094": "NE",
+        "id": "Komagataella_pastoris@Seq_1103",
+        "index": "52_1102",
+        "ortholog": "OG1924"
+    },
+    {
+        "PAS_chr1-4_0293": "NE",
+        "id": "Komagataella_pastoris@Seq_1092",
+        "index": "52_1091",
+        "ortholog": "OG3041"
+    },
+    {
+        "PAS_chr2-2_0283": "NE",
+        "id": "Komagataella_pastoris@Seq_4028",
+        "index": "52_4027",
+        "ortholog": "OG1287"
+    },
+    {
+        "PAS_chr4_0474": "NE",
+        "id": "Komagataella_pastoris@Seq_4568",
+        "index": "52_4567",
+        "ortholog": "OG4573"
+    },
+    {
+        "PAS_chr3_0283": "NE",
+        "id": "Komagataella_pastoris@Seq_2768",
+        "index": "52_2767",
+        "ortholog": "OG3450"
+    },
+    {
+        "PAS_chr2-2_0245": "NE",
+        "id": "Komagataella_pastoris@Seq_3459",
+        "index": "52_3458",
+        "ortholog": "OG2466"
+    },
+    {
+        "PAS_chr3_0783": "NE",
+        "id": "Komagataella_pastoris@Seq_1409",
+        "index": "52_1408",
+        "ortholog": "OG2741"
+    },
+    {
+        "PAS_chr3_0198": "NE",
+        "id": "Komagataella_pastoris@Seq_1871",
+        "index": "52_1870",
+        "ortholog": "OG3112"
+    },
+    {
+        "PAS_chr4_0598": "NE",
+        "id": "Komagataella_pastoris@Seq_4497",
+        "index": "52_4496",
+        "ortholog": "OG2557"
+    },
+    {
+        "PAS_chr3_0630": "NE",
+        "id": "Komagataella_pastoris@Seq_1310",
+        "index": "52_1309",
+        "ortholog": "OG4156"
+    },
+    {
+        "PAS_chr3_0591": "NE",
+        "id": "Komagataella_pastoris@Seq_2413",
+        "index": "52_2412",
+        "ortholog": "OG4185"
+    },
+    {
+        "PAS_chr1-1_0360": "NE",
+        "id": "Komagataella_pastoris@Seq_604",
+        "index": "52_603",
+        "ortholog": "OG1045"
+    },
+    {
+        "PAS_chr3_0095": "NE",
+        "id": "Komagataella_pastoris@Seq_3798",
+        "index": "52_3797",
+        "ortholog": "OG1252"
+    },
+    {
+        "PAS_chr1-3_0212": "NE",
+        "id": "Komagataella_pastoris@Seq_3829",
+        "index": "52_3828",
+        "ortholog": "OG1783"
+    },
+    {
+        "PAS_chr4_0840": "NE",
+        "id": "Komagataella_pastoris@Seq_828",
+        "index": "52_827",
+        "ortholog": "OG1567"
+    },
+    {
+        "PAS_chr1-1_0028": "NE",
+        "id": "Komagataella_pastoris@Seq_83",
+        "index": "52_82",
+        "ortholog": "OG3393"
+    },
+    {
+        "PAS_chr1-4_0144": "NE",
+        "id": "Komagataella_pastoris@Seq_3640",
+        "index": "52_3639",
+        "ortholog": "OG4110"
+    },
+    {
+        "PAS_chr4_0021": "NE",
+        "id": "Komagataella_pastoris@Seq_2125",
+        "index": "52_2124",
+        "ortholog": "OG2317"
+    },
+    {
+        "PAS_chr4_0055": "NE",
+        "id": "Komagataella_pastoris@Seq_2089",
+        "index": "52_2088",
+        "ortholog": "OG1273"
+    },
+    {
+        "PAS_chr3_0761": "NE",
+        "id": "Komagataella_pastoris@Seq_1294",
+        "index": "52_1293",
+        "ortholog": "OG4391"
+    },
+    {
+        "PAS_chr4_0488": "NE",
+        "id": "Komagataella_pastoris@Seq_2982",
+        "index": "52_2981",
+        "ortholog": "OG1604"
+    },
+    {
+        "PAS_chr4_0514": "NE",
+        "id": "Komagataella_pastoris@Seq_3974",
+        "index": "52_3973",
+        "ortholog": "OG1142"
+    },
+    {
+        "PAS_chr2-1_0168": "NE",
+        "id": "Komagataella_pastoris@Seq_3256",
+        "index": "52_3255",
+        "ortholog": "OG1525"
+    },
+    {
+        "PAS_chr1-1_0282": "NE",
+        "id": "Komagataella_pastoris@Seq_4379",
+        "index": "52_4378",
+        "ortholog": "OG1070"
+    },
+    {
+        "PAS_chr1-4_0243": "NE",
+        "id": "Komagataella_pastoris@Seq_1769",
+        "index": "52_1768",
+        "ortholog": "OG1788"
+    },
+    {
+        "PAS_chr4_0449": "NE",
+        "id": "Komagataella_pastoris@Seq_1693",
+        "index": "52_1692",
+        "ortholog": "OG2101"
+    },
+    {
+        "PAS_chr2-1_0111": "NE",
+        "id": "Komagataella_pastoris@Seq_4615",
+        "index": "52_4614",
+        "ortholog": "OG5118"
+    },
+    {
+        "PAS_chr4_0247": "NE",
+        "id": "Komagataella_pastoris@Seq_2402",
+        "index": "52_2401",
+        "ortholog": "OG3416"
+    },
+    {
+        "PAS_chr4_0416": "NE",
+        "id": "Komagataella_pastoris@Seq_1860",
+        "index": "52_1859",
+        "ortholog": "OG3336"
+    },
+    {
+        "PAS_chr3_0841": "NE",
+        "id": "Komagataella_pastoris@Seq_3467",
+        "index": "52_3466",
+        "ortholog": "OG1406"
+    },
+    {
+        "PAS_chr4_0369": "NE",
+        "id": "Komagataella_pastoris@Seq_3352",
+        "index": "52_3351",
+        "ortholog": "OG2147"
+    },
+    {
+        "PAS_chr3_0915": "NE",
+        "id": "Komagataella_pastoris@Seq_4446",
+        "index": "52_4445",
+        "ortholog": "OG3509"
+    },
+    {
+        "PAS_chr2-1_0679": "NE",
+        "id": "Komagataella_pastoris@Seq_367",
+        "index": "52_366",
+        "ortholog": "OG1724"
+    },
+    {
+        "PAS_chr1-1_0215": "NE",
+        "id": "Komagataella_pastoris@Seq_1948",
+        "index": "52_1947",
+        "ortholog": "OG2243"
+    },
+    {
+        "PAS_chr3_0361": "NE",
+        "id": "Komagataella_pastoris@Seq_4810",
+        "index": "52_4809",
+        "ortholog": "OG3488"
+    },
+    {
+        "PAS_chr1-1_0069": "NE",
+        "id": "Komagataella_pastoris@Seq_204",
+        "index": "52_203",
+        "ortholog": "OG1519"
+    },
+    {
+        "PAS_chr2-2_0145": "NE",
+        "id": "Komagataella_pastoris@Seq_3699",
+        "index": "52_3698",
+        "ortholog": "OG2495"
+    },
+    {
+        "PAS_chr2-1_0363": "NE",
+        "id": "Komagataella_pastoris@Seq_4700",
+        "index": "52_4699",
+        "ortholog": "OG4555"
+    },
+    {
+        "PAS_chr1-3_0130": "NE",
+        "id": "Komagataella_pastoris@Seq_3657",
+        "index": "52_3656",
+        "ortholog": "OG1793"
+    },
+    {
+        "PAS_chr3_1192": "NE",
+        "id": "Komagataella_pastoris@Seq_4178",
+        "index": "52_4177",
+        "ortholog": "OG2586"
+    },
+    {
+        "PAS_chr4_0408": "NE",
+        "id": "Komagataella_pastoris@Seq_404",
+        "index": "52_403",
+        "ortholog": "OG2048"
+    },
+    {
+        "PAS_chr4_0677": "NE",
+        "id": "Komagataella_pastoris@Seq_3489",
+        "index": "52_3488",
+        "ortholog": "OG1157"
+    },
+    {
+        "PAS_chr2-1_0661": "NE",
+        "id": "Komagataella_pastoris@Seq_2828",
+        "index": "52_2827",
+        "ortholog": "OG1014"
+    },
+    {
+        "PAS_chr4_0264": "NE",
+        "id": "Komagataella_pastoris@Seq_635",
+        "index": "52_634",
+        "ortholog": "OG3128"
+    },
+    {
+        "PAS_chr2-1_0351": "NE",
+        "id": "Komagataella_pastoris@Seq_3503",
+        "index": "52_3502",
+        "ortholog": "OG3421"
+    },
+    {
+        "PAS_chr2-2_0391": "NE",
+        "id": "Komagataella_pastoris@Seq_1512",
+        "index": "52_1511",
+        "ortholog": "OG1689"
+    },
+    {
+        "PAS_chr3_1127": "NE",
+        "id": "Komagataella_pastoris@Seq_1243",
+        "index": "52_1242",
+        "ortholog": "OG2228"
+    },
+    {
+        "PAS_chr2-1_0396": "NE",
+        "id": "Komagataella_pastoris@Seq_1494",
+        "index": "52_1493",
+        "ortholog": "OG3475"
+    },
+    {
+        "PAS_chr1-4_0254": "NE",
+        "id": "Komagataella_pastoris@Seq_3767",
+        "index": "52_3766",
+        "ortholog": "OG3294"
+    },
+    {
+        "PAS_chr1-1_0280": "NE",
+        "id": "Komagataella_pastoris@Seq_2923",
+        "index": "52_2922",
+        "ortholog": "OG3151"
+    },
+    {
+        "PAS_chr4_0938": "NE",
+        "id": "Komagataella_pastoris@Seq_4776",
+        "index": "52_4775",
+        "ortholog": "OG3470"
+    },
+    {
+        "PAS_chr1-4_0475": "NE",
+        "id": "Komagataella_pastoris@Seq_4775",
+        "index": "52_4774",
+        "ortholog": "OG2603"
+    },
+    {
+        "PAS_chr1-4_0426": "NE",
+        "id": "Komagataella_pastoris@Seq_697",
+        "index": "52_696",
+        "ortholog": "OG2859"
+    },
+    {
+        "PAS_chr3_0062": "NE",
+        "id": "Komagataella_pastoris@Seq_3206",
+        "index": "52_3205",
+        "ortholog": "OG2968"
+    },
+    {
+        "PAS_chr4_0783": "NE",
+        "id": "Komagataella_pastoris@Seq_1087",
+        "index": "52_1086",
+        "ortholog": "OG2455"
+    },
+    {
+        "PAS_chr1-1_0221": "NE",
+        "id": "Komagataella_pastoris@Seq_3735",
+        "index": "52_3734",
+        "ortholog": "OG4366"
+    },
+    {
+        "PAS_chr1-4_0104": "NE",
+        "id": "Komagataella_pastoris@Seq_4073",
+        "index": "52_4072",
+        "ortholog": "OG3213"
+    },
+    {
+        "PAS_chr1-3_0090": "NE",
+        "id": "Komagataella_pastoris@Seq_161",
+        "index": "52_160",
+        "ortholog": "OG1823"
+    },
+    {
+        "PAS_chr2-1_0016": "NE",
+        "id": "Komagataella_pastoris@Seq_759",
+        "index": "52_758",
+        "ortholog": "OG1156"
+    },
+    {
+        "PAS_chr3_0824": "NE",
+        "id": "Komagataella_pastoris@Seq_4595",
+        "index": "52_4594",
+        "ortholog": "OG2714"
+    },
+    {
+        "PAS_chr1-4_0570": "NE",
+        "id": "Komagataella_pastoris@Seq_1216",
+        "index": "52_1215",
+        "ortholog": "OG1013"
+    },
+    {
+        "PAS_chr3_0744": "NE",
+        "id": "Komagataella_pastoris@Seq_1696",
+        "index": "52_1695",
+        "ortholog": "OG1022"
+    },
+    {
+        "PAS_chr4_0147": "NE",
+        "id": "Komagataella_pastoris@Seq_2094",
+        "index": "52_2093",
+        "ortholog": "OG3639"
+    },
+    {
+        "PAS_chr3_1126": "NE",
+        "id": "Komagataella_pastoris@Seq_4792",
+        "index": "52_4791",
+        "ortholog": "OG3991"
+    },
+    {
+        "PAS_chr2-1_0424": "NE",
+        "id": "Komagataella_pastoris@Seq_1625",
+        "index": "52_1624",
+        "ortholog": "OG1063"
+    },
+    {
+        "PAS_chr2-1_0419": "NE",
+        "id": "Komagataella_pastoris@Seq_1391",
+        "index": "52_1390",
+        "ortholog": "OG2288"
+    },
+    {
+        "PAS_chr4_0579": "NE",
+        "id": "Komagataella_pastoris@Seq_1766",
+        "index": "52_1765",
+        "ortholog": "OG1564"
+    },
+    {
+        "PAS_chr2-2_0060": "NE",
+        "id": "Komagataella_pastoris@Seq_765",
+        "index": "52_764",
+        "ortholog": "OG1204"
+    },
+    {
+        "PAS_chr2-1_0089": "NE",
+        "id": "Komagataella_pastoris@Seq_2924",
+        "index": "52_2923",
+        "ortholog": "OG1585"
+    },
+    {
+        "PAS_chr4_0744": "NE",
+        "id": "Komagataella_pastoris@Seq_1919",
+        "index": "52_1918",
+        "ortholog": "OG2026"
+    },
+    {
+        "PAS_chr2-1_0037": "NE",
+        "id": "Komagataella_pastoris@Seq_3114",
+        "index": "52_3113",
+        "ortholog": "OG5576"
+    },
+    {
+        "PAS_chr3_0022": "NE",
+        "id": "Komagataella_pastoris@Seq_2271",
+        "index": "52_2270",
+        "ortholog": "OG1119"
+    },
+    {
+        "PAS_chr4_0191": "NE",
+        "id": "Komagataella_pastoris@Seq_1301",
+        "index": "52_1300",
+        "ortholog": "OG1170"
+    },
+    {
+        "PAS_chr2-2_0382": "NE",
+        "id": "Komagataella_pastoris@Seq_2910",
+        "index": "52_2909",
+        "ortholog": "OG1497"
+    },
+    {
+        "PAS_chr3_1132": "NE",
+        "id": "Komagataella_pastoris@Seq_179",
+        "index": "52_178",
+        "ortholog": "OG1759"
+    },
+    {
+        "PAS_chr3_0867": "NE",
+        "id": "Komagataella_pastoris@Seq_990",
+        "index": "52_989",
+        "ortholog": "OG3241"
+    },
+    {
+        "PAS_chr1-4_0215": "NE",
+        "id": "Komagataella_pastoris@Seq_1532",
+        "index": "52_1531",
+        "ortholog": "OG2173"
+    },
+    {
+        "PAS_chr1-1_0184": "NE",
+        "id": "Komagataella_pastoris@Seq_573",
+        "index": "52_572",
+        "ortholog": "OG2186"
+    },
+    {
+        "PAS_chr2-2_0142": "NE",
+        "id": "Komagataella_pastoris@Seq_1401",
+        "index": "52_1400",
+        "ortholog": "OG1032"
+    },
+    {
+        "PAS_chr2-1_0110": "NE",
+        "id": "Komagataella_pastoris@Seq_215",
+        "index": "52_214",
+        "ortholog": "OG1563"
+    },
+    {
+        "PAS_chr4_0912": "NE",
+        "id": "Komagataella_pastoris@Seq_1348",
+        "index": "52_1347",
+        "ortholog": "OG1200"
+    },
+    {
+        "PAS_chr1-4_0615": "NE",
+        "id": "Komagataella_pastoris@Seq_3793",
+        "index": "52_3792",
+        "ortholog": "OG3954"
+    },
+    {
+        "PAS_chr3_0799": "NE",
+        "id": "Komagataella_pastoris@Seq_2445",
+        "index": "52_2444",
+        "ortholog": "OG1032"
+    },
+    {
+        "PAS_chr2-1_0753": "NE",
+        "id": "Komagataella_pastoris@Seq_1933",
+        "index": "52_1932",
+        "ortholog": "OG2687"
+    },
+    {
+        "PAS_chr3_1084": "NE",
+        "id": "Komagataella_pastoris@Seq_3666",
+        "index": "52_3665",
+        "ortholog": "OG1597"
+    },
+    {
+        "PAS_chr1-1_0287": "NE",
+        "id": "Komagataella_pastoris@Seq_1998",
+        "index": "52_1997",
+        "ortholog": "OG1058"
+    },
+    {
+        "PAS_chr1-1_0358": "NE",
+        "id": "Komagataella_pastoris@Seq_3310",
+        "index": "52_3309",
+        "ortholog": "OG1303"
+    },
+    {
+        "PAS_chr2-1_0238": "NE",
+        "id": "Komagataella_pastoris@Seq_2485",
+        "index": "52_2484",
+        "ortholog": "OG1835"
+    },
+    {
+        "PAS_chr1-1_0081": "NE",
+        "id": "Komagataella_pastoris@Seq_550",
+        "index": "52_549",
+        "ortholog": "OG2343"
+    },
+    {
+        "PAS_chr4_0733": "NE",
+        "id": "Komagataella_pastoris@Seq_1638",
+        "index": "52_1637",
+        "ortholog": "OG1275"
+    },
+    {
+        "PAS_chr3_0826": "NE",
+        "id": "Komagataella_pastoris@Seq_2266",
+        "index": "52_2265",
+        "ortholog": "OG2794"
+    },
+    {
+        "PAS_chr2-2_0101": "NE",
+        "id": "Komagataella_pastoris@Seq_4241",
+        "index": "52_4240",
+        "ortholog": "OG4234"
+    },
+    {
+        "PAS_chr1-1_0006": "NE",
+        "id": "Komagataella_pastoris@Seq_3589",
+        "index": "52_3588",
+        "ortholog": "OG1556"
+    },
+    {
+        "PAS_chr2-2_0272": "NE",
+        "id": "Komagataella_pastoris@Seq_4277",
+        "index": "52_4276",
+        "ortholog": "OG3122"
+    },
+    {
+        "PAS_chr2-1_0673": "NE",
+        "id": "Komagataella_pastoris@Seq_4392",
+        "index": "52_4391",
+        "ortholog": "OG2358"
+    },
+    {
+        "PAS_chr2-2_0021": "NE",
+        "id": "Komagataella_pastoris@Seq_3814",
+        "index": "52_3813",
+        "ortholog": "OG3279"
+    },
+    {
+        "PAS_chr3_0440": "NE",
+        "id": "Komagataella_pastoris@Seq_3687",
+        "index": "52_3686",
+        "ortholog": "OG1073"
+    },
+    {
+        "PAS_chr1-1_0030": "NE",
+        "id": "Komagataella_pastoris@Seq_2274",
+        "index": "52_2273",
+        "ortholog": "OG1001"
+    },
+    {
+        "PAS_chr4_0847": "NE",
+        "id": "Komagataella_pastoris@Seq_1010",
+        "index": "52_1009",
+        "ortholog": "OG4524"
+    },
+    {
+        "PAS_chr2-2_0127": "NE",
+        "id": "Komagataella_pastoris@Seq_4184",
+        "index": "52_4183",
+        "ortholog": "OG3839"
+    },
+    {
+        "PAS_chr1-3_0081": "NE",
+        "id": "Komagataella_pastoris@Seq_3260",
+        "index": "52_3259",
+        "ortholog": "OG1081"
+    },
+    {
+        "PAS_chr1-3_0078": "NE",
+        "id": "Komagataella_pastoris@Seq_2782",
+        "index": "52_2781",
+        "ortholog": "OG1966"
+    },
+    {
+        "PAS_chr3_0428": "NE",
+        "id": "Komagataella_pastoris@Seq_4327",
+        "index": "52_4326",
+        "ortholog": "OG3585"
+    },
+    {
+        "PAS_chr1-4_0194": "NE",
+        "id": "Komagataella_pastoris@Seq_3066",
+        "index": "52_3065",
+        "ortholog": "OG1130"
+    },
+    {
+        "PAS_chr3_1111": "NE",
+        "id": "Komagataella_pastoris@Seq_366",
+        "index": "52_365",
+        "ortholog": "OG2704"
+    },
+    {
+        "PAS_chr4_0974": "NE",
+        "id": "Komagataella_pastoris@Seq_2398",
+        "index": "52_2397",
+        "ortholog": "OG1650"
+    },
+    {
+        "PAS_chr4_0284": "NE",
+        "id": "Komagataella_pastoris@Seq_2324",
+        "index": "52_2323",
+        "ortholog": "OG1631"
+    },
+    {
+        "PAS_chr1-4_0390": "NE",
+        "id": "Komagataella_pastoris@Seq_479",
+        "index": "52_478",
+        "ortholog": "OG2182"
+    },
+    {
+        "PAS_chr4_0648": "NE",
+        "id": "Komagataella_pastoris@Seq_1205",
+        "index": "52_1204",
+        "ortholog": "OG1477"
+    },
+    {
+        "PAS_chr2-1_0577": "NE",
+        "id": "Komagataella_pastoris@Seq_1804",
+        "index": "52_1803",
+        "ortholog": "OG1697"
+    },
+    {
+        "PAS_chr4_0478": "NE",
+        "id": "Komagataella_pastoris@Seq_818",
+        "index": "52_817",
+        "ortholog": "OG3258"
+    },
+    {
+        "PAS_chr3_0726": "NE",
+        "id": "Komagataella_pastoris@Seq_2983",
+        "index": "52_2982",
+        "ortholog": "OG4396"
+    },
+    {
+        "PAS_chr3_0781": "NE",
+        "id": "Komagataella_pastoris@Seq_2930",
+        "index": "52_2929",
+        "ortholog": "OG1266"
+    },
+    {
+        "PAS_chr3_1002": "NE",
+        "id": "Komagataella_pastoris@Seq_4530",
+        "index": "52_4529",
+        "ortholog": "OG1312"
+    },
+    {
+        "PAS_chr2-1_0454": "NE",
+        "id": "Komagataella_pastoris@Seq_1770",
+        "index": "52_1769",
+        "ortholog": "OG1298"
+    },
+    {
+        "PAS_chr4_0330": "NE",
+        "id": "Komagataella_pastoris@Seq_2389",
+        "index": "52_2388",
+        "ortholog": "OG1944"
+    },
+    {
+        "PAS_chr1-3_0100": "NE",
+        "id": "Komagataella_pastoris@Seq_2696",
+        "index": "52_2695",
+        "ortholog": "OG1679"
+    },
+    {
+        "PAS_chr1-1_0103": "NE",
+        "id": "Komagataella_pastoris@Seq_4582",
+        "index": "52_4581",
+        "ortholog": "OG1498"
+    },
+    {
+        "PAS_chr1-4_0181": "NE",
+        "id": "Komagataella_pastoris@Seq_449",
+        "index": "52_448",
+        "ortholog": "OG1473"
+    },
+    {
+        "PAS_chr3_0306": "NE",
+        "id": "Komagataella_pastoris@Seq_3694",
+        "index": "52_3693",
+        "ortholog": "OG5060"
+    },
+    {
+        "PAS_chr4_0266": "NE",
+        "id": "Komagataella_pastoris@Seq_1429",
+        "index": "52_1428",
+        "ortholog": "OG1581"
+    },
+    {
+        "PAS_chr4_0877": "NE",
+        "id": "Komagataella_pastoris@Seq_3096",
+        "index": "52_3095",
+        "ortholog": "OG4201"
+    },
+    {
+        "PAS_chr2-2_0337": "NE",
+        "id": "Komagataella_pastoris@Seq_1485",
+        "index": "52_1484",
+        "ortholog": "OG1667"
+    },
+    {
+        "PAS_chr3_0236": "NE",
+        "id": "Komagataella_pastoris@Seq_130",
+        "index": "52_129",
+        "ortholog": "OG3909"
+    },
+    {
+        "PAS_chr1-4_0534": "NE",
+        "id": "Komagataella_pastoris@Seq_3337",
+        "index": "52_3336",
+        "ortholog": "OG1748"
+    },
+    {
+        "PAS_chr2-2_0266": "NE",
+        "id": "Komagataella_pastoris@Seq_4298",
+        "index": "52_4297",
+        "ortholog": "OG4751"
+    },
+    {
+        "PAS_chr1-1_0005": "NE",
+        "id": "Komagataella_pastoris@Seq_2355",
+        "index": "52_2354",
+        "ortholog": "OG1777"
+    },
+    {
+        "PAS_chr2-1_0593": "NE",
+        "id": "Komagataella_pastoris@Seq_142",
+        "index": "52_141",
+        "ortholog": "OG2056"
+    },
+    {
+        "PAS_chr4_0842": "NE",
+        "id": "Komagataella_pastoris@Seq_4504",
+        "index": "52_4503",
+        "ortholog": "OG2868"
+    },
+    {
+        "PAS_chr3_1142": "NE",
+        "id": "Komagataella_pastoris@Seq_1065",
+        "index": "52_1064",
+        "ortholog": "OG4923"
+    },
+    {
+        "PAS_chr3_0069": "NE",
+        "id": "Komagataella_pastoris@Seq_3803",
+        "index": "52_3802",
+        "ortholog": "OG2397"
+    },
+    {
+        "PAS_chr1-1_0009": "NE",
+        "id": "Komagataella_pastoris@Seq_3590",
+        "index": "52_3589",
+        "ortholog": "OG1152"
+    },
+    {
+        "PAS_chr2-1_0197": "NE",
+        "id": "Komagataella_pastoris@Seq_3157",
+        "index": "52_3156",
+        "ortholog": "OG2506"
+    },
+    {
+        "PAS_chr2-1_0763": "NE",
+        "id": "Komagataella_pastoris@Seq_2072",
+        "index": "52_2071",
+        "ortholog": "OG3069"
+    },
+    {
+        "PAS_chr4_0337": "NE",
+        "id": "Komagataella_pastoris@Seq_2427",
+        "index": "52_2426",
+        "ortholog": "OG1304"
+    },
+    {
+        "PAS_chr2-1_0775": "NE",
+        "id": "Komagataella_pastoris@Seq_4066",
+        "index": "52_4065",
+        "ortholog": "OG2283"
+    },
+    {
+        "PAS_chr3_0176": "NE",
+        "id": "Komagataella_pastoris@Seq_869",
+        "index": "52_868",
+        "ortholog": "OG2854"
+    },
+    {
+        "PAS_chr1-4_0392": "NE",
+        "id": "Komagataella_pastoris@Seq_3978",
+        "index": "52_3977",
+        "ortholog": "OG1148"
+    },
+    {
+        "PAS_chr1-4_0264": "NE",
+        "id": "Komagataella_pastoris@Seq_3299",
+        "index": "52_3298",
+        "ortholog": "OG1302"
+    },
+    {
+        "PAS_chr1-4_0064": "NE",
+        "id": "Komagataella_pastoris@Seq_3399",
+        "index": "52_3398",
+        "ortholog": "OG1411"
+    },
+    {
+        "PAS_chr1-4_0299": "NE",
+        "id": "Komagataella_pastoris@Seq_4347",
+        "index": "52_4346",
+        "ortholog": "OG1199"
+    },
+    {
+        "PAS_chr3_0512": "NE",
+        "id": "Komagataella_pastoris@Seq_2409",
+        "index": "52_2408",
+        "ortholog": "OG1687"
+    },
+    {
+        "PAS_chr2-1_0453": "NE",
+        "id": "Komagataella_pastoris@Seq_2723",
+        "index": "52_2722",
+        "ortholog": "OG1103"
+    },
+    {
+        "PAS_chr3_0349": "NE",
+        "id": "Komagataella_pastoris@Seq_2447",
+        "index": "52_2446",
+        "ortholog": "OG1227"
+    },
+    {
+        "PAS_chr3_0965": "NE",
+        "id": "Komagataella_pastoris@Seq_1955",
+        "index": "52_1954",
+        "ortholog": "OG3506"
+    },
+    {
+        "PAS_chr2-1_0771": "NE",
+        "id": "Komagataella_pastoris@Seq_4194",
+        "index": "52_4193",
+        "ortholog": "OG2571"
+    },
+    {
+        "PAS_chr2-1_0279": "NE",
+        "id": "Komagataella_pastoris@Seq_1321",
+        "index": "52_1320",
+        "ortholog": "OG1003"
+    },
+    {
+        "PAS_chr2-2_0009": "NE",
+        "id": "Komagataella_pastoris@Seq_937",
+        "index": "52_936",
+        "ortholog": "OG5166"
+    },
+    {
+        "PAS_chr3_0036": "NE",
+        "id": "Komagataella_pastoris@Seq_4291",
+        "index": "52_4290",
+        "ortholog": "OG3377"
+    },
+    {
+        "PAS_chr4_0580": "NE",
+        "id": "Komagataella_pastoris@Seq_3059",
+        "index": "52_3058",
+        "ortholog": "OG2677"
+    },
+    {
+        "PAS_chr3_0615": "NE",
+        "id": "Komagataella_pastoris@Seq_1068",
+        "index": "52_1067",
+        "ortholog": "OG4316"
+    },
+    {
+        "PAS_chr1-1_0050": "NE",
+        "id": "Komagataella_pastoris@Seq_4502",
+        "index": "52_4501",
+        "ortholog": "OG2071"
+    },
+    {
+        "PAS_chr1-1_0047": "NE",
+        "id": "Komagataella_pastoris@Seq_373",
+        "index": "52_372",
+        "ortholog": "OG3593"
+    },
+    {
+        "PAS_chr2-1_0178": "NE",
+        "id": "Komagataella_pastoris@Seq_3047",
+        "index": "52_3046",
+        "ortholog": "OG1063"
+    },
+    {
+        "PAS_chr1-4_0394": "NE",
+        "id": "Komagataella_pastoris@Seq_506",
+        "index": "52_505",
+        "ortholog": "OG1439"
+    },
+    {
+        "PAS_chr1-4_0019": "NE",
+        "id": "Komagataella_pastoris@Seq_2201",
+        "index": "52_2200",
+        "ortholog": "OG2394"
+    },
+    {
+        "PAS_chr1-1_0393": "NE",
+        "id": "Komagataella_pastoris@Seq_2135",
+        "index": "52_2134",
+        "ortholog": "OG1012"
+    },
+    {
+        "PAS_chr2-2_0036": "NE",
+        "id": "Komagataella_pastoris@Seq_4061",
+        "index": "52_4060",
+        "ortholog": "OG3638"
+    },
+    {
+        "PAS_chr1-4_0380": "NE",
+        "id": "Komagataella_pastoris@Seq_606",
+        "index": "52_605",
+        "ortholog": "OG1543"
+    },
+    {
+        "PAS_chr1-4_0601": "NE",
+        "id": "Komagataella_pastoris@Seq_1084",
+        "index": "52_1083",
+        "ortholog": "OG1127"
+    },
+    {
+        "PAS_chr4_0865": "NE",
+        "id": "Komagataella_pastoris@Seq_1059",
+        "index": "52_1058",
+        "ortholog": "OG3006"
+    },
+    {
+        "PAS_chr2-1_0770": "NE",
+        "id": "Komagataella_pastoris@Seq_117",
+        "index": "52_116",
+        "ortholog": "OG2183"
+    },
+    {
+        "PAS_chr4_0544": "NE",
+        "id": "Komagataella_pastoris@Seq_2606",
+        "index": "52_2605",
+        "ortholog": "OG2646"
+    },
+    {
+        "PAS_chr1-1_0277": "NE",
+        "id": "Komagataella_pastoris@Seq_168",
+        "index": "52_167",
+        "ortholog": "OG2411"
+    },
+    {
+        "PAS_chr3_0291": "NE",
+        "id": "Komagataella_pastoris@Seq_1388",
+        "index": "52_1387",
+        "ortholog": "OG2123"
+    },
+    {
+        "PAS_chr4_0153": "NE",
+        "id": "Komagataella_pastoris@Seq_3986",
+        "index": "52_3985",
+        "ortholog": "OG1044"
+    },
+    {
+        "PAS_chr1-1_0241": "NE",
+        "id": "Komagataella_pastoris@Seq_1488",
+        "index": "52_1487",
+        "ortholog": "OG2864"
+    },
+    {
+        "PAS_chr1-4_0496": "NE",
+        "id": "Komagataella_pastoris@Seq_3650",
+        "index": "52_3649",
+        "ortholog": "OG2031"
+    },
+    {
+        "PAS_chr3_0842": "NE",
+        "id": "Komagataella_pastoris@Seq_3730",
+        "index": "52_3729",
+        "ortholog": "OG3811"
+    },
+    {
+        "PAS_chr2-2_0174": "NE",
+        "id": "Komagataella_pastoris@Seq_2624",
+        "index": "52_2623",
+        "ortholog": "OG2007"
+    },
+    {
+        "PAS_chr1-3_0235": "NE",
+        "id": "Komagataella_pastoris@Seq_4719",
+        "index": "52_4718",
+        "ortholog": "OG4109"
+    },
+    {
+        "PAS_chr3_0169": "NE",
+        "id": "Komagataella_pastoris@Seq_594",
+        "index": "52_593",
+        "ortholog": "OG2903"
+    },
+    {
+        "PAS_FragB_0064": "NE",
+        "id": "Komagataella_pastoris@Seq_4718",
+        "index": "52_4717",
+        "ortholog": "OG4377"
+    },
+    {
+        "PAS_chr2-1_0549": "NE",
+        "id": "Komagataella_pastoris@Seq_2371",
+        "index": "52_2370",
+        "ortholog": "OG2901"
+    },
+    {
+        "PAS_chr2-1_0513": "NE",
+        "id": "Komagataella_pastoris@Seq_2046",
+        "index": "52_2045",
+        "ortholog": "OG3332"
+    },
+    {
+        "PAS_chr3_1031": "NE",
+        "id": "Komagataella_pastoris@Seq_1548",
+        "index": "52_1547",
+        "ortholog": "OG2084"
+    },
+    {
+        "PAS_chr3_0999": "NE",
+        "id": "Komagataella_pastoris@Seq_2326",
+        "index": "52_2325",
+        "ortholog": "OG2738"
+    },
+    {
+        "PAS_chr4_0610": "NE",
+        "id": "Komagataella_pastoris@Seq_3963",
+        "index": "52_3962",
+        "ortholog": "OG1082"
+    },
+    {
+        "PAS_chr1-1_0169": "NE",
+        "id": "Komagataella_pastoris@Seq_3126",
+        "index": "52_3125",
+        "ortholog": "OG2684"
+    },
+    {
+        "PAS_chr3_0100": "NE",
+        "id": "Komagataella_pastoris@Seq_2548",
+        "index": "52_2547",
+        "ortholog": "OG3570"
+    },
+    {
+        "PAS_chr2-1_0120": "NE",
+        "id": "Komagataella_pastoris@Seq_3529",
+        "index": "52_3528",
+        "ortholog": "OG1786"
+    },
+    {
+        "PAS_chr3_0281": "NE",
+        "id": "Komagataella_pastoris@Seq_2744",
+        "index": "52_2743",
+        "ortholog": "OG2249"
+    },
+    {
+        "PAS_chr3_0649": "NE",
+        "id": "Komagataella_pastoris@Seq_4438",
+        "index": "52_4437",
+        "ortholog": "OG4268"
+    },
+    {
+        "PAS_chr2-1_0221": "NE",
+        "id": "Komagataella_pastoris@Seq_775",
+        "index": "52_774",
+        "ortholog": "OG1789"
+    },
+    {
+        "PAS_chr4_0196": "NE",
+        "id": "Komagataella_pastoris@Seq_993",
+        "index": "52_992",
+        "ortholog": "OG2126"
+    },
+    {
+        "PAS_chr3_0218": "NE",
+        "id": "Komagataella_pastoris@Seq_1927",
+        "index": "52_1926",
+        "ortholog": "OG2374"
+    },
+    {
+        "PAS_chr4_0836": "NE",
+        "id": "Komagataella_pastoris@Seq_4622",
+        "index": "52_4621",
+        "ortholog": "OG3832"
+    },
+    {
+        "PAS_chr4_0138": "NE",
+        "id": "Komagataella_pastoris@Seq_1328",
+        "index": "52_1327",
+        "ortholog": "OG2721"
+    },
+    {
+        "PAS_chr3_0072": "NE",
+        "id": "Komagataella_pastoris@Seq_798",
+        "index": "52_797",
+        "ortholog": "OG2514"
+    },
+    {
+        "PAS_chr2-1_0785": "NE",
+        "id": "Komagataella_pastoris@Seq_164",
+        "index": "52_163",
+        "ortholog": "OG1240"
+    },
+    {
+        "PAS_chr2-1_0853": "NE",
+        "id": "Komagataella_pastoris@Seq_3390",
+        "index": "52_3389",
+        "ortholog": "OG1021"
+    },
+    {
+        "PAS_chr1-4_0315": "NE",
+        "id": "Komagataella_pastoris@Seq_3023",
+        "index": "52_3022",
+        "ortholog": "OG3493"
+    },
+    {
+        "PAS_chr2-2_0182": "NE",
+        "id": "Komagataella_pastoris@Seq_3912",
+        "index": "52_3911",
+        "ortholog": "OG2246"
+    },
+    {
+        "PAS_chr2-1_0123": "NE",
+        "id": "Komagataella_pastoris@Seq_1028",
+        "index": "52_1027",
+        "ortholog": "OG2711"
+    },
+    {
+        "PAS_chr1-4_0207": "NE",
+        "id": "Komagataella_pastoris@Seq_1793",
+        "index": "52_1792",
+        "ortholog": "OG3048"
+    },
+    {
+        "PAS_chr3_1007": "NE",
+        "id": "Komagataella_pastoris@Seq_980",
+        "index": "52_979",
+        "ortholog": "OG3679"
+    },
+    {
+        "PAS_chr3_1110": "NE",
+        "id": "Komagataella_pastoris@Seq_2401",
+        "index": "52_2400",
+        "ortholog": "OG3240"
+    },
+    {
+        "PAS_chr4_0101": "NE",
+        "id": "Komagataella_pastoris@Seq_1744",
+        "index": "52_1743",
+        "ortholog": "OG1962"
+    },
+    {
+        "PAS_chr2-2_0288": "NE",
+        "id": "Komagataella_pastoris@Seq_664",
+        "index": "52_663",
+        "ortholog": "OG2936"
+    },
+    {
+        "PAS_chr3_0822": "NE",
+        "id": "Komagataella_pastoris@Seq_106",
+        "index": "52_105",
+        "ortholog": "OG3023"
+    },
+    {
+        "PAS_chr1-4_0124": "NE",
+        "id": "Komagataella_pastoris@Seq_1127",
+        "index": "52_1126",
+        "ortholog": "OG3597"
+    },
+    {
+        "PAS_chr3_0843": "NE",
+        "id": "Komagataella_pastoris@Seq_2016",
+        "index": "52_2015",
+        "ortholog": "OG3581"
+    },
+    {
+        "PAS_chr3_0552": "NE",
+        "id": "Komagataella_pastoris@Seq_2192",
+        "index": "52_2191",
+        "ortholog": "OG3000"
+    },
+    {
+        "PAS_chr4_0287": "NE",
+        "id": "Komagataella_pastoris@Seq_2873",
+        "index": "52_2872",
+        "ortholog": "OG1162"
+    },
+    {
+        "PAS_chr4_0700": "NE",
+        "id": "Komagataella_pastoris@Seq_4006",
+        "index": "52_4005",
+        "ortholog": "OG3760"
+    },
+    {
+        "PAS_chr4_0664": "NE",
+        "id": "Komagataella_pastoris@Seq_3540",
+        "index": "52_3539",
+        "ortholog": "OG3786"
+    },
+    {
+        "PAS_chr4_0342": "NE",
+        "id": "Komagataella_pastoris@Seq_1852",
+        "index": "52_1851",
+        "ortholog": "OG3499"
+    },
+    {
+        "PAS_chr1-4_0558": "NE",
+        "id": "Komagataella_pastoris@Seq_971",
+        "index": "52_970",
+        "ortholog": "OG1100"
+    },
+    {
+        "PAS_chr3_0234": "NE",
+        "id": "Komagataella_pastoris@Seq_2885",
+        "index": "52_2884",
+        "ortholog": "OG2779"
+    },
+    {
+        "PAS_chr1-4_0151": "NE",
+        "id": "Komagataella_pastoris@Seq_1599",
+        "index": "52_1598",
+        "ortholog": "OG3643"
+    },
+    {
+        "PAS_chr4_0550": "NE",
+        "id": "Komagataella_pastoris@Seq_3933",
+        "index": "52_3932",
+        "ortholog": "OG1220"
+    },
+    {
+        "PAS_chr4_0346": "NE",
+        "id": "Komagataella_pastoris@Seq_2720",
+        "index": "52_2719",
+        "ortholog": "OG3354"
+    },
+    {
+        "PAS_chr1-4_0090": "NE",
+        "id": "Komagataella_pastoris@Seq_660",
+        "index": "52_659",
+        "ortholog": "OG2742"
+    },
+    {
+        "PAS_chr3_0763": "NE",
+        "id": "Komagataella_pastoris@Seq_4255",
+        "index": "52_4254",
+        "ortholog": "OG3616"
+    },
+    {
+        "PAS_chr2-1_0760": "NE",
+        "id": "Komagataella_pastoris@Seq_1299",
+        "index": "52_1298",
+        "ortholog": "OG3298"
+    },
+    {
+        "PAS_chr2-1_0864": "NE",
+        "id": "Komagataella_pastoris@Seq_432",
+        "index": "52_431",
+        "ortholog": "OG2577"
+    },
+    {
+        "PAS_chr3_0225": "NE",
+        "id": "Komagataella_pastoris@Seq_1233",
+        "index": "52_1232",
+        "ortholog": "OG1215"
+    },
+    {
+        "PAS_chr1-3_0128": "NE",
+        "id": "Komagataella_pastoris@Seq_1862",
+        "index": "52_1861",
+        "ortholog": "OG1822"
+    },
+    {
+        "PAS_chr3_0579": "NE",
+        "id": "Komagataella_pastoris@Seq_2364",
+        "index": "52_2363",
+        "ortholog": "OG3100"
+    },
+    {
+        "PAS_chr2-2_0162": "NE",
+        "id": "Komagataella_pastoris@Seq_3086",
+        "index": "52_3085",
+        "ortholog": "OG2384"
+    },
+    {
+        "PAS_chr2-1_0856": "NE",
+        "id": "Komagataella_pastoris@Seq_251",
+        "index": "52_250",
+        "ortholog": "OG4250"
+    },
+    {
+        "PAS_FragB_0061": "NE",
+        "id": "Komagataella_pastoris@Seq_3622",
+        "index": "52_3621",
+        "ortholog": "OG1881"
+    },
+    {
+        "PAS_chr3_0188": "NE",
+        "id": "Komagataella_pastoris@Seq_2436",
+        "index": "52_2435",
+        "ortholog": "OG1060"
+    },
+    {
+        "PAS_chr3_0561": "NE",
+        "id": "Komagataella_pastoris@Seq_1644",
+        "index": "52_1643",
+        "ortholog": "OG4043"
+    },
+    {
+        "PAS_chr4_0228": "NE",
+        "id": "Komagataella_pastoris@Seq_1476",
+        "index": "52_1475",
+        "ortholog": "OG1388"
+    },
+    {
+        "PAS_chr2-1_0698": "NE",
+        "id": "Komagataella_pastoris@Seq_779",
+        "index": "52_778",
+        "ortholog": "OG3596"
+    },
+    {
+        "PAS_chr2-1_0736": "NE",
+        "id": "Komagataella_pastoris@Seq_897",
+        "index": "52_896",
+        "ortholog": "OG1977"
+    },
+    {
+        "PAS_chr3_1037": "NE",
+        "id": "Komagataella_pastoris@Seq_796",
+        "index": "52_795",
+        "ortholog": "OG4010"
+    },
+    {
+        "PAS_chr2-1_0885": "NE",
+        "id": "Komagataella_pastoris@Seq_3844",
+        "index": "52_3843",
+        "ortholog": "OG2508"
+    },
+    {
+        "PAS_chr2-1_0749": "NE",
+        "id": "Komagataella_pastoris@Seq_2111",
+        "index": "52_2110",
+        "ortholog": "OG3221"
+    },
+    {
+        "PAS_chr2-1_0292": "NE",
+        "id": "Komagataella_pastoris@Seq_1988",
+        "index": "52_1987",
+        "ortholog": "OG3683"
+    },
+    {
+        "PAS_chr2-2_0401": "NE",
+        "id": "Komagataella_pastoris@Seq_4202",
+        "index": "52_4201",
+        "ortholog": "OG2214"
+    },
+    {
+        "PAS_chr2-1_0752": "NE",
+        "id": "Komagataella_pastoris@Seq_1159",
+        "index": "52_1158",
+        "ortholog": "OG1390"
+    },
+    {
+        "PAS_chr4_0576": "NE",
+        "id": "Komagataella_pastoris@Seq_2162",
+        "index": "52_2161",
+        "ortholog": "OG1020"
+    },
+    {
+        "PAS_c121_0009": "NE",
+        "id": "Komagataella_pastoris@Seq_3685",
+        "index": "52_3684",
+        "ortholog": "OG1622"
+    },
+    {
+        "PAS_chr2-2_0407": "NE",
+        "id": "Komagataella_pastoris@Seq_858",
+        "index": "52_857",
+        "ortholog": "OG2409"
+    },
+    {
+        "PAS_chr3_0831": "NE",
+        "id": "Komagataella_pastoris@Seq_2424",
+        "index": "52_2423",
+        "ortholog": "OG1696"
+    },
+    {
+        "PAS_chr4_0272": "NE",
+        "id": "Komagataella_pastoris@Seq_2249",
+        "index": "52_2248",
+        "ortholog": "OG1178"
+    },
+    {
+        "PAS_chr3_0646": "NE",
+        "id": "Komagataella_pastoris@Seq_3797",
+        "index": "52_3796",
+        "ortholog": "OG1625"
+    },
+    {
+        "PAS_chr2-1_0173": "NE",
+        "id": "Komagataella_pastoris@Seq_4017",
+        "index": "52_4016",
+        "ortholog": "OG2841"
+    },
+    {
+        "PAS_chr1-1_0262": "NE",
+        "id": "Komagataella_pastoris@Seq_1846",
+        "index": "52_1845",
+        "ortholog": "OG3612"
+    },
+    {
+        "PAS_chr1-4_0593": "NE",
+        "id": "Komagataella_pastoris@Seq_3053",
+        "index": "52_3052",
+        "ortholog": "OG1959"
+    },
+    {
+        "PAS_chr2-2_0294": "NE",
+        "id": "Komagataella_pastoris@Seq_3626",
+        "index": "52_3625",
+        "ortholog": "OG2807"
+    },
+    {
+        "PAS_chr1-4_0338": "NE",
+        "id": "Komagataella_pastoris@Seq_2195",
+        "index": "52_2194",
+        "ortholog": "OG2099"
+    },
+    {
+        "PAS_chr2-2_0357": "NE",
+        "id": "Komagataella_pastoris@Seq_4160",
+        "index": "52_4159",
+        "ortholog": "OG1468"
+    },
+    {
+        "PAS_chr1-1_0322": "NE",
+        "id": "Komagataella_pastoris@Seq_3926",
+        "index": "52_3925",
+        "ortholog": "OG3208"
+    },
+    {
+        "PAS_chr1-4_0313": "NE",
+        "id": "Komagataella_pastoris@Seq_2843",
+        "index": "52_2842",
+        "ortholog": "OG4360"
+    },
+    {
+        "PAS_chr2-2_0430": "NE",
+        "id": "Komagataella_pastoris@Seq_2230",
+        "index": "52_2229",
+        "ortholog": "OG2006"
+    },
+    {
+        "PAS_chr3_0253": "NE",
+        "id": "Komagataella_pastoris@Seq_4538",
+        "index": "52_4537",
+        "ortholog": "OG1429"
+    },
+    {
+        "PAS_chr1-1_0063": "NE",
+        "id": "Komagataella_pastoris@Seq_2552",
+        "index": "52_2551",
+        "ortholog": "OG3205"
+    },
+    {
+        "PAS_chr2-2_0276": "NE",
+        "id": "Komagataella_pastoris@Seq_2997",
+        "index": "52_2996",
+        "ortholog": "OG2504"
+    },
+    {
+        "PAS_chr3_1138": "NE",
+        "id": "Komagataella_pastoris@Seq_3788",
+        "index": "52_3787",
+        "ortholog": "OG2282"
+    },
+    {
+        "PAS_chr4_0819": "NE",
+        "id": "Komagataella_pastoris@Seq_1279",
+        "index": "52_1278",
+        "ortholog": "OG3062"
+    },
+    {
+        "PAS_chr1-3_0024": "NE",
+        "id": "Komagataella_pastoris@Seq_1844",
+        "index": "52_1843",
+        "ortholog": "OG1126"
+    },
+    {
+        "PAS_chr4_0352": "NE",
+        "id": "Komagataella_pastoris@Seq_2106",
+        "index": "52_2105",
+        "ortholog": "OG1087"
+    },
+    {
+        "PAS_chr2-1_0361": "NE",
+        "id": "Komagataella_pastoris@Seq_2370",
+        "index": "52_2369",
+        "ortholog": "OG1185"
+    },
+    {
+        "PAS_chr2-2_0303": "NE",
+        "id": "Komagataella_pastoris@Seq_1191",
+        "index": "52_1190",
+        "ortholog": "OG2783"
+    },
+    {
+        "PAS_chr4_0968": "NE",
+        "id": "Komagataella_pastoris@Seq_3215",
+        "index": "52_3214",
+        "ortholog": "OG1721"
+    },
+    {
+        "PAS_chr2-1_0344": "NE",
+        "id": "Komagataella_pastoris@Seq_1432",
+        "index": "52_1431",
+        "ortholog": "OG3453"
+    },
+    {
+        "PAS_chr2-2_0481": "NE",
+        "id": "Komagataella_pastoris@Seq_475",
+        "index": "52_474",
+        "ortholog": "OG4185"
+    },
+    {
+        "PAS_chr1-4_0417": "NE",
+        "id": "Komagataella_pastoris@Seq_3656",
+        "index": "52_3655",
+        "ortholog": "OG3104"
+    },
+    {
+        "PAS_chr4_0645": "NE",
+        "id": "Komagataella_pastoris@Seq_4316",
+        "index": "52_4315",
+        "ortholog": "OG2200"
+    },
+    {
+        "PAS_chr2-1_0358": "NE",
+        "id": "Komagataella_pastoris@Seq_2699",
+        "index": "52_2698",
+        "ortholog": "OG3557"
+    },
+    {
+        "PAS_chr1-1_0163": "NE",
+        "id": "Komagataella_pastoris@Seq_470",
+        "index": "52_469",
+        "ortholog": "OG1905"
+    },
+    {
+        "PAS_chr3_0082": "NE",
+        "id": "Komagataella_pastoris@Seq_520",
+        "index": "52_519",
+        "ortholog": "OG1193"
+    },
+    {
+        "PAS_chr4_0511": "NE",
+        "id": "Komagataella_pastoris@Seq_2026",
+        "index": "52_2025",
+        "ortholog": "OG2215"
+    },
+    {
+        "PAS_chr2-1_0659": "NE",
+        "id": "Komagataella_pastoris@Seq_1632",
+        "index": "52_1631",
+        "ortholog": "OG1164"
+    }
+]
