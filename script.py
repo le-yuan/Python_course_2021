@@ -77,7 +77,7 @@ def main() :
     handles,labels = ax.get_legend_handles_labels()
     # # specify one legend
     l = plt.legend(handles[0:2], labels[0:2], loc=2, frameon=False, prop={'family':'Arial'})
-    plt.savefig("./output/boxplot_result.pdf", dpi=400, bbox_inches = 'tight')
+    plt.savefig("./output/boxplot_result.png", dpi=400, bbox_inches = 'tight')
 
     print("\n" + "-------"*5)
     print("Great! I have generated the boxplot for visualization!")
